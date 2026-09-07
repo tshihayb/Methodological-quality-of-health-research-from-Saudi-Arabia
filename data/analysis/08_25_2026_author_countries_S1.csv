@@ -1,0 +1,56 @@
+rank,country,region,authors,share,first,last,corr,papers,n_categories
+1,Saudi Arabia,Gulf,1520,39.7%,253,211,246,385,1
+2,United States,Americas,288,7.5%,28,37,28,66,1
+3,Italy,Europe,196,5.1%,1,3,2,13,1
+4,Egypt,Other Arab,193,5.0%,36,34,35,71,1
+5,United Kingdom,Europe,123,3.2%,10,15,12,38,1
+6,India,Asia,100,2.6%,16,10,12,42,1
+7,Pakistan,Asia,93,2.4%,17,6,11,36,1
+8,Nigeria,Sub-Saharan Africa,65,1.7%,3,3,3,7,1
+9,China,Asia,63,1.6%,10,8,8,20,1
+10,Australia,Oceania,62,1.6%,5,8,6,26,1
+11,Malaysia,Asia,54,1.4%,7,6,6,19,1
+12,Turkey,Asia,53,1.4%,0,0,0,12,1
+13,Canada,Americas,50,1.3%,5,7,5,22,1
+14,France,Europe,47,1.2%,2,2,4,11,1
+15,Austria,Europe,46,1.2%,3,3,2,8,1
+17,Iran,Asia,42,1.1%,2,2,4,10,1
+18,Germany,Europe,39,1.0%,2,3,3,14,1
+19,Tunisia,Other Arab,38,1.0%,3,3,2,9,1
+20,Jordan,Other Arab,32,0.8%,4,4,5,17,1
+21,Spain,Europe,31,0.8%,1,1,0,9,1
+22,Sweden,Europe,30,0.8%,1,4,1,14,1
+23,Poland,Europe,30,0.8%,1,2,2,12,1
+24,South Korea,Asia,27,0.7%,2,7,4,14,1
+25,Netherlands,Europe,27,0.7%,4,4,3,13,1
+26,Bangladesh,Asia,26,0.7%,2,6,2,14,1
+27,Japan,Asia,26,0.7%,2,0,1,12,1
+28,Brazil,Americas,24,0.6%,3,2,3,8,1
+29,Kuwait,Gulf,23,0.6%,2,1,2,8,1
+30,Russia,Europe,20,0.5%,2,4,2,10,1
+31,Qatar,Gulf,17,0.4%,0,2,0,9,1
+32,Lebanon,Other Arab,17,0.4%,3,2,2,6,1
+33,Finland,Europe,17,0.4%,2,1,1,6,1
+34,Ireland,Europe,16,0.4%,2,2,2,5,1
+35,Sudan,Other Arab,15,0.4%,3,2,3,7,1
+36,Yemen,Other Arab,14,0.4%,4,1,3,7,1
+37,United Arab Emirates,Gulf,13,0.3%,0,2,0,8,1
+39,Vietnam,Asia,12,0.3%,1,1,1,6,1
+40,Belgium,Europe,12,0.3%,2,2,1,5,1
+41,Israel,Asia,12,0.3%,1,0,1,5,1
+43,Ethiopia,Sub-Saharan Africa,11,0.3%,0,7,0,10,1
+44,Switzerland,Europe,11,0.3%,0,0,0,7,1
+45,Philippines,Asia,11,0.3%,0,0,1,7,1
+46,Oman,Gulf,11,0.3%,1,3,1,7,1
+47,Colombia,Americas,10,0.3%,1,0,1,6,1
+48,Mexico,Americas,10,0.3%,0,0,0,6,1
+49,Palestine,Other Arab,9,0.2%,0,0,0,5,1
+52,Singapore,Asia,8,0.2%,0,1,0,6,1
+53,Bahrain,Gulf,8,0.2%,1,0,0,5,1
+58,Portugal,Europe,6,0.2%,0,0,0,5,1
+1512,Other countries,Europe,113,,2,6,3,43,21
+606,Other countries,Sub-Saharan Africa,30,,1,2,2,18,8
+338,Other countries,Other Arab,26,,4,1,3,12,5
+152,Other countries,Oceania,9,,0,0,0,5,2
+1018,Other countries,Asia,28,,0,4,1,20,12
+542,Other countries,Americas,18,,0,0,0,14,7

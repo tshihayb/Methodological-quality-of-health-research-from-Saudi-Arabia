@@ -1,0 +1,386 @@
+PMID,n_sectors,lead_saudi_type,multisector,multisector_union,health_system,health_system_union
+STUDY-0400,1,Hospital / medical city,False,False,True,True
+STUDY-1007,2,University,True,True,True,True
+STUDY-0995,1,Hospital / medical city,False,False,True,True
+STUDY-0455,1,Military & security-forces medical,False,False,True,True
+STUDY-0405,1,University,False,False,False,False
+STUDY-0531,1,Hospital & research centre,False,False,True,True
+STUDY-0106,1,University,False,False,False,False
+STUDY-0527,2,University,True,True,True,True
+STUDY-0436,2,University,True,True,True,True
+STUDY-0427,1,University,False,False,False,False
+STUDY-0837,1,University,False,False,False,False
+STUDY-0445,3,Hospital / medical city,True,True,True,True
+STUDY-0172,1,University,False,False,False,False
+STUDY-0177,1,University,False,False,False,False
+STUDY-0393,1,Hospital & research centre,False,False,True,True
+STUDY-0843,1,University,False,False,False,False
+STUDY-0774,1,University,False,False,False,False
+STUDY-0880,3,Hospital / medical city,True,True,True,True
+STUDY-0914,1,Hospital / medical city,False,False,True,True
+STUDY-0250,1,University,False,False,False,False
+STUDY-0104,1,University,False,False,False,False
+STUDY-0537,1,Hospital / medical city,False,False,True,True
+STUDY-0658,1,Hospital / medical city,False,False,True,True
+STUDY-0737,1,Hospital & research centre,False,False,True,True
+STUDY-0220,1,University,False,False,False,False
+STUDY-0994,1,University,False,False,False,False
+STUDY-0499,1,University,False,False,False,False
+STUDY-0350,2,Other sectors,True,True,False,False
+STUDY-0354,1,University,False,False,False,False
+STUDY-0839,1,University,False,False,False,False
+STUDY-0750,3,University,True,True,True,True
+STUDY-0259,1,University,False,False,False,False
+STUDY-0707,1,Hospital / medical city,False,False,True,True
+STUDY-0431,1,University,False,False,False,False
+STUDY-0821,2,University,True,True,True,True
+STUDY-1022,2,Hospital / medical city,True,True,True,True
+STUDY-0145,4,University,True,True,True,True
+STUDY-0385,1,University,False,False,False,False
+STUDY-0397,1,Hospital & research centre,False,True,True,True
+STUDY-0532,1,Hospital / medical city,False,False,True,True
+STUDY-0284,2,University,True,True,True,True
+STUDY-0663,2,Hospital / medical city,True,True,True,True
+STUDY-0970,1,Other sectors,False,True,False,True
+STUDY-0304,2,University,True,True,True,True
+STUDY-0487,1,University,False,False,False,False
+STUDY-0362,1,University,False,False,False,False
+STUDY-0123,1,University,False,False,False,False
+STUDY-0731,1,Hospital / medical city,False,True,True,True
+STUDY-0322,1,University,False,False,False,False
+STUDY-0159,1,University,False,False,False,False
+STUDY-0419,2,Hospital / medical city,True,True,True,True
+STUDY-0333,1,Hospital & research centre,False,False,True,True
+STUDY-0046,1,University,False,False,False,False
+STUDY-0355,1,University,False,False,False,False
+STUDY-0845,2,Hospital / medical city,True,True,True,True
+STUDY-0555,1,University,False,False,False,False
+STUDY-0945,1,University,False,False,False,False
+STUDY-0365,1,University,False,False,False,False
+STUDY-0023,1,University,False,False,False,False
+STUDY-0817,1,University,False,False,False,False
+STUDY-0170,1,University,False,False,False,False
+STUDY-0442,1,Hospital / medical city,False,True,True,True
+STUDY-0007,1,University,False,False,False,False
+STUDY-0026,2,University,True,True,True,True
+STUDY-0048,3,Military & security-forces medical,True,True,True,True
+STUDY-0326,1,University,False,False,False,False
+STUDY-0563,1,University,False,False,False,False
+STUDY-0144,1,University,False,False,False,False
+STUDY-0045,1,University,False,False,False,False
+STUDY-0041,2,University,True,True,False,False
+STUDY-0418,1,University,False,False,False,False
+STUDY-0234,2,University,True,True,True,True
+STUDY-0275,1,University,False,False,False,False
+STUDY-0788,1,University,False,False,False,False
+STUDY-0521,1,Hospital / medical city,False,False,True,True
+STUDY-0346,1,University,False,False,False,False
+STUDY-0192,2,University,True,True,True,True
+STUDY-0049,1,University,False,False,False,False
+STUDY-0012,2,University,True,True,True,True
+STUDY-0171,1,University,False,False,False,False
+STUDY-0141,1,University,False,False,False,False
+STUDY-0671,1,University,False,False,False,False
+STUDY-0924,1,University,False,False,False,False
+STUDY-0182,1,University,False,False,False,False
+STUDY-0597,1,University,False,False,False,False
+STUDY-0149,3,University,True,True,True,True
+STUDY-0256,3,University,True,True,True,True
+STUDY-0830,1,University,False,False,False,False
+STUDY-0157,1,University,False,True,False,True
+STUDY-0972,1,University,False,False,False,False
+STUDY-0766,1,University,False,False,False,False
+STUDY-0552,1,University,False,False,False,False
+STUDY-0257,1,University,False,False,False,False
+STUDY-0819,1,University,False,False,False,False
+STUDY-0611,3,University,True,True,True,True
+STUDY-0942,1,University,False,False,False,False
+STUDY-0492,1,University,False,False,False,False
+STUDY-0739,1,University,False,False,False,False
+STUDY-0306,1,University,False,False,False,False
+STUDY-0685,1,University,False,False,False,False
+STUDY-0112,1,University,False,False,False,False
+STUDY-0613,1,University,False,False,False,False
+STUDY-0522,1,University,False,False,False,False
+STUDY-0792,1,University,False,False,False,False
+STUDY-0248,1,University,False,False,False,False
+STUDY-0189,4,Hospital & research centre,True,True,True,True
+STUDY-0701,1,University,False,False,False,False
+STUDY-0835,1,University,False,False,False,False
+STUDY-0040,1,University,False,False,False,False
+STUDY-0402,1,University,False,False,False,False
+STUDY-0239,1,University,False,False,False,False
+STUDY-0977,1,Hospital / medical city,False,False,True,True
+STUDY-0429,1,University,False,False,False,False
+STUDY-0589,1,University,False,False,False,False
+STUDY-0721,1,University,False,False,False,False
+STUDY-0933,1,University,False,False,False,False
+STUDY-0330,1,University,False,False,False,False
+STUDY-0922,1,University,False,False,False,False
+STUDY-0600,1,University,False,False,False,False
+STUDY-0119,1,University,False,False,False,False
+STUDY-0251,1,University,False,False,False,False
+STUDY-0932,1,University,False,False,False,False
+STUDY-0749,2,Hospital & research centre,True,True,True,True
+STUDY-0517,1,University,False,False,False,False
+STUDY-0210,2,University,True,True,False,False
+STUDY-0923,3,University,True,True,True,True
+STUDY-0214,2,University,True,True,True,True
+STUDY-0565,3,University,True,True,True,True
+STUDY-0899,1,University,False,False,False,False
+STUDY-0094,1,University,False,False,False,False
+STUDY-0809,1,University,False,False,False,False
+STUDY-0793,1,University,False,False,False,False
+STUDY-0627,1,Hospital / medical city,False,False,True,True
+STUDY-0126,1,University,False,False,False,False
+STUDY-0387,1,University,False,False,False,False
+STUDY-0700,1,University,False,False,False,False
+STUDY-0805,1,University,False,False,False,False
+STUDY-0401,1,University,False,False,False,False
+STUDY-0780,1,Hospital & research centre,False,False,True,True
+STUDY-0184,1,University,False,False,False,False
+STUDY-0205,1,University,False,False,False,False
+STUDY-0740,1,University,False,False,False,False
+STUDY-0930,1,University,False,False,False,False
+STUDY-0822,1,University,False,False,False,False
+STUDY-1026,1,University,False,False,False,False
+STUDY-0649,1,University,False,False,False,False
+STUDY-0258,1,University,False,False,False,False
+STUDY-0446,1,University,False,False,False,False
+STUDY-0133,1,University,False,False,False,False
+STUDY-0542,1,University,False,False,False,False
+STUDY-0337,1,University,False,False,False,False
+STUDY-0702,1,University,False,False,False,False
+STUDY-0541,1,Hospital & research centre,False,False,True,True
+STUDY-0840,3,University,True,True,True,True
+STUDY-0447,1,Military & security-forces medical,False,False,True,True
+STUDY-0634,1,University,False,False,False,False
+STUDY-0037,1,University,False,False,False,False
+STUDY-1021,1,University,False,False,False,False
+STUDY-0268,1,University,False,True,False,True
+STUDY-0449,1,University,False,False,False,False
+STUDY-0943,3,University,True,True,True,True
+STUDY-0760,2,University,True,True,True,True
+STUDY-0549,1,University,False,False,False,False
+STUDY-0161,2,Hospital / medical city,True,True,True,True
+STUDY-0064,1,Hospital / medical city,False,False,True,True
+STUDY-0952,1,University,False,False,False,False
+STUDY-0471,1,University,False,False,False,False
+STUDY-0135,1,University,False,False,False,False
+STUDY-0963,1,University,False,False,False,False
+STUDY-0892,2,University,True,True,True,True
+STUDY-0494,1,University,False,False,False,False
+STUDY-0577,1,University,False,False,False,False
+STUDY-0598,1,University,False,False,False,False
+STUDY-0093,2,University,True,True,False,False
+STUDY-0006,3,Military & security-forces medical,True,True,True,True
+STUDY-0386,2,University,True,True,True,True
+STUDY-0698,1,University,False,False,False,False
+STUDY-0603,1,University,False,False,False,False
+STUDY-1001,3,University,True,True,True,True
+STUDY-0423,1,University,False,False,False,False
+STUDY-0086,1,Hospital & research centre,False,False,True,True
+STUDY-0207,1,University,False,False,False,False
+STUDY-0810,1,University,False,False,False,False
+STUDY-0109,1,University,False,False,False,False
+STUDY-1016,1,Military & security-forces medical,False,False,True,True
+STUDY-0473,2,University,True,True,False,True
+STUDY-0295,1,University,False,False,False,False
+STUDY-0516,5,University,True,True,True,True
+STUDY-0803,1,Military & security-forces medical,False,False,True,True
+STUDY-0307,1,University,False,False,False,False
+STUDY-0560,1,University,False,False,False,False
+STUDY-0132,1,Hospital / medical city,False,False,True,True
+STUDY-0852,1,Hospital / medical city,False,True,True,True
+STUDY-0231,1,University,False,False,False,False
+STUDY-0595,1,University,False,False,False,False
+STUDY-0129,1,University,False,False,False,False
+STUDY-0834,1,University,False,False,False,False
+STUDY-0865,1,University,False,False,False,False
+STUDY-0339,1,Hospital & research centre,False,False,True,True
+STUDY-0773,1,University,False,False,False,False
+STUDY-0744,1,University,False,False,False,False
+STUDY-0475,3,Other sectors,True,True,True,True
+STUDY-0853,1,Hospital & research centre,False,False,True,True
+STUDY-0403,1,University,False,False,False,False
+STUDY-0628,1,University,False,False,False,False
+STUDY-0653,1,University,False,False,False,False
+STUDY-0005,1,University,False,False,False,False
+STUDY-0297,1,University,False,False,False,False
+STUDY-0162,2,University,True,True,True,True
+STUDY-0728,1,University,False,False,False,False
+STUDY-0984,2,Hospital / medical city,True,True,True,True
+STUDY-0590,1,University,False,False,False,False
+STUDY-0440,1,Hospital / medical city,False,False,True,True
+STUDY-0450,1,University,False,False,False,False
+STUDY-0416,1,University,False,False,False,False
+STUDY-0557,1,University,False,False,False,False
+STUDY-0373,1,University,False,False,False,False
+STUDY-0352,1,Hospital / medical city,False,True,True,True
+STUDY-0382,1,University,False,False,False,False
+STUDY-0468,1,University,False,False,False,False
+STUDY-0715,6,Hospital / medical city,True,True,True,True
+STUDY-0665,2,Military & security-forces medical,True,True,True,True
+STUDY-0988,1,University,False,False,False,False
+STUDY-0252,1,University,False,False,False,False
+STUDY-0986,1,University,False,False,False,False
+STUDY-0781,1,University,False,False,False,False
+STUDY-0360,1,University,False,False,False,False
+STUDY-0199,1,University,False,False,False,False
+STUDY-1003,2,University,True,True,False,False
+STUDY-0062,1,University,False,True,False,False
+STUDY-0525,1,University,False,False,False,False
+STUDY-0351,1,University,False,False,False,False
+STUDY-0630,2,Hospital / medical city,True,True,True,True
+STUDY-0477,1,University,False,False,False,False
+STUDY-0335,1,Other sectors,False,False,False,False
+STUDY-0096,1,Other sectors,False,False,False,False
+STUDY-0032,1,University,False,False,False,False
+STUDY-0778,4,Other sectors,True,True,True,True
+STUDY-0878,1,University,False,False,False,False
+STUDY-0864,2,University,True,True,True,True
+STUDY-0902,1,University,False,True,False,True
+STUDY-0659,1,University,False,False,False,False
+STUDY-0345,2,University,True,True,False,True
+STUDY-0472,1,University,False,True,False,True
+STUDY-0331,1,University,False,False,False,False
+STUDY-0901,1,University,False,False,False,False
+STUDY-0476,1,University,False,False,False,False
+STUDY-1010,1,University,False,False,False,False
+STUDY-1013,3,University,True,True,True,True
+STUDY-0137,1,University,False,False,False,False
+STUDY-0194,1,University,False,False,False,False
+STUDY-0736,1,University,False,False,False,False
+STUDY-0312,1,University,False,True,False,True
+STUDY-0808,1,University,False,False,False,False
+STUDY-0647,1,University,False,False,False,False
+STUDY-0978,2,Hospital / medical city,True,True,True,True
+STUDY-0188,1,University,False,False,False,False
+STUDY-0940,1,University,False,False,False,False
+STUDY-0936,1,University,False,False,False,False
+STUDY-0605,1,University,False,False,False,False
+STUDY-0889,1,University,False,False,False,False
+STUDY-0084,1,University,False,False,False,False
+STUDY-1024,1,University,False,False,False,False
+STUDY-0415,1,University,False,False,False,False
+STUDY-0426,3,Hospital / medical city,True,True,True,True
+STUDY-0824,1,University,False,False,False,False
+STUDY-0974,2,University,True,True,True,True
+STUDY-0422,2,Hospital & research centre,True,True,True,True
+STUDY-0679,2,University,True,True,True,True
+STUDY-0115,1,University,False,True,False,True
+STUDY-0764,1,University,False,False,False,False
+STUDY-0931,1,University,False,False,False,False
+STUDY-0677,1,University,False,False,False,False
+STUDY-0320,2,Hospital / medical city,True,True,True,True
+STUDY-0110,1,University,False,False,False,False
+STUDY-0280,1,University,False,True,False,True
+STUDY-0434,1,University,False,False,False,False
+STUDY-0237,1,Hospital / medical city,False,True,True,True
+STUDY-0825,1,University,False,False,False,False
+STUDY-0329,1,University,False,False,False,False
+STUDY-0101,1,University,False,False,False,False
+STUDY-0561,2,Military & security-forces medical,True,True,True,True
+STUDY-0130,1,University,False,False,False,False
+STUDY-0083,1,University,False,False,False,False
+STUDY-0633,1,University,False,False,False,False
+STUDY-0876,1,University,False,False,False,False
+STUDY-0669,1,University,False,False,False,False
+STUDY-0504,1,University,False,False,False,False
+STUDY-0074,1,University,False,False,False,False
+STUDY-0055,1,University,False,False,False,False
+STUDY-0722,1,University,False,False,False,False
+STUDY-0947,1,University,False,False,False,False
+STUDY-0245,1,University,False,False,False,False
+STUDY-0551,1,University,False,False,False,False
+STUDY-0379,3,University,True,True,True,True
+STUDY-0887,2,University,True,True,True,True
+STUDY-0695,1,University,False,False,False,False
+STUDY-0762,1,University,False,False,False,False
+STUDY-0823,3,University,True,True,True,True
+STUDY-0536,2,University,True,True,True,True
+STUDY-0910,1,University,False,False,False,False
+STUDY-0650,3,University,True,True,True,True
+STUDY-0273,1,University,False,False,False,False
+STUDY-0961,1,University,False,False,False,False
+STUDY-0712,1,University,False,False,False,False
+STUDY-0609,2,University,True,True,True,True
+STUDY-0976,3,University,True,True,True,True
+STUDY-0282,1,University,False,False,False,False
+STUDY-0867,1,University,False,False,False,False
+STUDY-0794,1,University,False,False,False,False
+STUDY-0031,1,University,False,True,False,False
+STUDY-0829,1,University,False,False,False,False
+STUDY-0875,2,Hospital / medical city,True,True,True,True
+STUDY-0443,1,Hospital & research centre,False,True,True,True
+STUDY-0269,1,University,False,False,False,False
+STUDY-0241,2,Hospital / medical city,True,True,True,True
+STUDY-0336,1,University,False,False,False,False
+STUDY-0812,1,University,False,False,False,False
+STUDY-0567,1,Hospital / medical city,False,False,True,True
+STUDY-0232,1,Military & security-forces medical,False,False,True,True
+STUDY-0125,1,University,False,False,False,False
+STUDY-0648,2,Other sectors,True,True,False,False
+STUDY-0656,1,University,False,False,False,False
+STUDY-0185,1,University,False,False,False,False
+STUDY-0991,1,University,False,True,False,True
+STUDY-0065,1,University,False,False,False,False
+STUDY-0047,2,University,True,True,True,True
+STUDY-0457,1,University,False,False,False,False
+STUDY-0186,1,University,False,False,False,False
+STUDY-0713,1,University,False,False,False,False
+STUDY-0710,1,University,False,False,False,False
+STUDY-0520,1,University,False,False,False,False
+STUDY-0156,1,University,False,False,False,False
+STUDY-0944,1,University,False,False,False,False
+STUDY-0305,1,University,False,False,False,False
+STUDY-0676,2,University,True,True,True,True
+STUDY-0927,2,University,True,True,True,True
+STUDY-0906,1,Other sectors,False,False,True,True
+STUDY-0883,1,University,False,True,False,True
+STUDY-0501,1,University,False,False,False,False
+STUDY-0868,1,Other sectors,False,False,True,True
+STUDY-0183,1,University,False,False,False,False
+STUDY-0053,1,University,False,False,False,False
+STUDY-0981,1,University,False,False,False,False
+STUDY-0102,1,University,False,False,False,False
+STUDY-0596,1,University,False,False,False,False
+STUDY-0831,2,University,True,True,True,True
+STUDY-0856,1,University,False,False,False,False
+STUDY-0519,1,Military & security-forces medical,False,False,True,True
+STUDY-0017,1,University,False,False,False,False
+STUDY-0621,1,University,False,False,False,False
+STUDY-0905,1,University,False,False,False,False
+STUDY-0143,1,University,False,False,False,False
+STUDY-0644,1,University,False,True,False,True
+STUDY-0441,1,University,False,False,False,False
+STUDY-0030,2,University,True,True,True,True
+STUDY-0807,1,University,False,True,False,True
+STUDY-0371,1,Military & security-forces medical,False,False,True,True
+STUDY-0911,1,University,False,False,False,False
+STUDY-0430,1,University,False,False,False,False
+STUDY-0968,1,University,False,False,False,False
+STUDY-0919,1,University,False,False,False,False
+STUDY-0460,2,University,True,True,True,True
+STUDY-0617,1,Hospital & research centre,False,False,True,True
+STUDY-0847,1,University,False,False,False,False
+STUDY-0674,2,University,True,True,True,True
+STUDY-0299,1,Hospital / medical city,False,False,True,True
+STUDY-0271,1,University,False,False,False,False
+STUDY-0580,1,University,False,False,False,False
+STUDY-0425,1,University,False,False,False,False
+STUDY-0982,3,University,True,True,True,True
+STUDY-0783,2,University,True,True,True,True
+STUDY-0466,2,University,True,True,True,True
+STUDY-0228,1,University,False,False,False,False
+STUDY-0708,1,University,False,False,False,False
+STUDY-0380,1,Hospital & research centre,False,False,True,True
+STUDY-0893,1,Military & security-forces medical,False,False,True,True
+STUDY-0196,1,University,False,False,False,False
+STUDY-0437,1,University,False,False,False,False
+STUDY-0566,2,University,True,True,True,True
+STUDY-0928,1,University,False,False,False,False
+STUDY-0099,1,University,False,False,False,False
+STUDY-0202,1,University,False,False,False,False
+STUDY-0019,1,University,False,False,False,False
+STUDY-0100,1,University,False,False,False,False

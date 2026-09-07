@@ -1,0 +1,35 @@
+institution,inst_type,author_appearances,papers,n_categories
+King Saud University,University,249,81,1
+King Abdulaziz University,University,112,45,1
+Prince Sattam Bin Abdulaziz University,University,89,31,1
+Imam Abdulrahman Bin Faisal University,University,80,29,1
+King Faisal Specialist Hospital & Research Centre,Hospital & research centre,68,23,1
+King Saud bin Abdulaziz University for Health Sciences,University,64,22,1
+King Khalid University,University,59,19,1
+Umm Al-Qura University,University,56,14,1
+Jazan University,University,46,27,1
+Qassim University,University,46,27,1
+Princess Nourah Bint Abdulrahman University,University,40,22,1
+King Abdulaziz Medical City,Hospital / medical city,40,14,1
+Jouf University,University,38,16,1
+King Fahad Medical City,Hospital / medical city,37,11,1
+University of Hail,University,32,11,1
+Taibah University,University,31,14,1
+Imam Mohammad Ibn Saud Islamic University,University,29,6,1
+Majmaah University,University,26,8,1
+Ministry of Health,Ministry of Health,25,15,1
+King Abdullah International Medical Research Center,Research centre / institute,23,10,1
+King Faisal University,University,21,9,1
+Taif University,University,18,11,1
+Johns Hopkins Aramco Healthcare / Saudi Aramco,Company / industry,16,7,1
+Armed Forces Hospital,Military & security-forces medical,13,6,1
+Prince Sultan Military Medical City,Military & security-forces medical,11,6,1
+University of Tabuk,University,10,5,1
+Maternity & Children Hospital (MoH),Hospital / medical city,9,5,1
+Security Forces Hospital,Military & security-forces medical,7,5,1
+Alfaisal University,University,7,7,1
+Northern Border University,University,7,5,1
+Almaarefa University,University,6,6,1
+King Abdullah Medical City,Hospital / medical city,6,5,1
+King Fahad Specialist Hospital,Hospital / medical city,5,5,1
+Other institutions (fewer than 5 papers each),,194,123,83

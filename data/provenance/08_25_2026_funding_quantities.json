@@ -1,0 +1,7 @@
+{
+ "n_papers": 385,
+ "not_stated": 99,
+ "no_funding_statement": 78,
+ "no_funding_vocabulary": 59,
+ "source": "code/enrichment/08_25_2026_verify_adjudicated_funding.py"
+}

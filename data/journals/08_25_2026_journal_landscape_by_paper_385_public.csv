@@ -1,0 +1,386 @@
+Study_Type,sjr_best_quartile,jcr_2022_quartile,oa_status,scimago_open_access,is_in_doaj,in_pmc,field,domain,publisher_country,pub_year
+Predictive,-,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q3,None,diamond,No,False,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Predictive,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q2,Q2,closed,Yes,False,No,Dentistry,Health Sciences,Italy,2022
+Descriptive,Q2,Q4,closed,No,False,No,Dentistry,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,True,Yes,Dentistry,Health Sciences,United States,2023
+Predictive,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,United States,2023
+Causal,Q3,Q4,closed,No,False,No,Psychology,Social Sciences,Other (fewer than 5 papers each),2022
+Causal,Q3,Q2,bronze,No,False,No,Medicine,Health Sciences,England,2023
+Descriptive,Q2,Q2,bronze,No,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q1,green,No,False,No,Medicine,Health Sciences,Netherlands,2022
+Descriptive,Q3,Q4,closed,No,False,No,Medicine,Health Sciences,England,2023
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Health Professions,Health Sciences,United States,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q3,None,diamond,Yes,True,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q2,None,hybrid,Yes,False,Yes,Dentistry,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Predictive,Q3,None,diamond,No,False,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Other (fewer than 5 papers each),Physical Sciences,United States,2022
+Causal,Q1,Q1,hybrid,Yes,False,No,"Biochemistry, Genetics and Molecular Biology",Life Sciences,United States,2023
+Causal,Q2,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Computer Science,Physical Sciences,Switzerland,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Psychology,Social Sciences,Switzerland,2022
+Causal,Q3,None,diamond,Yes,True,No,Medicine,Health Sciences,Saudi Arabia,2022
+Descriptive,Q3,Q4,closed,No,False,No,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q3,closed,No,False,No,Psychology,Social Sciences,England,2023
+Predictive,Q1,None,bronze,No,False,Yes,Medicine,Health Sciences,United States,2023
+Causal,Q1,Q2,gold,Yes,True,Yes,Social Sciences,Social Sciences,United States,2022
+Causal,Q2,Q3,closed,No,False,No,Health Professions,Health Sciences,United States,2022
+Predictive,Q2,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q3,Q4,green,No,False,Yes,Neuroscience,Life Sciences,Other (fewer than 5 papers each),2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Health Professions,Health Sciences,Switzerland,2022
+Causal,Q2,Q2,green,No,False,Yes,Medicine,Health Sciences,Netherlands,2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q2,hybrid,No,False,No,Medicine,Health Sciences,United States,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Psychology,Social Sciences,England,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Health Professions,Health Sciences,England,2022
+Predictive,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Causal,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q2,closed,No,False,No,Psychology,Social Sciences,United States,2022
+Causal,Q1,Q2,bronze,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q3,Q4,closed,No,False,No,Dentistry,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q1,Q1,bronze,Yes,True,Yes,Social Sciences,Social Sciences,United States,2022
+Descriptive,Q1,Q3,closed,No,False,No,Dentistry,Health Sciences,England,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Health Professions,Health Sciences,England,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,England,2022
+Causal,Q2,Q2,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,Netherlands,2022
+Causal,Q1,Q2,closed,No,False,Yes,Other (fewer than 5 papers each),Social Sciences,Other (fewer than 5 papers each),2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q3,closed,Yes,True,No,Medicine,Health Sciences,Netherlands,2022
+Causal,Q3,None,hybrid,Yes,False,Yes,Psychology,Social Sciences,England,2022
+Causal,Q3,Q4,diamond,No,False,No,Health Professions,Health Sciences,India,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q3,closed,Yes,False,No,Medicine,Health Sciences,United States,2022
+Predictive,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q1,hybrid,Yes,False,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q4,Q4,diamond,No,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Causal,Q2,Q3,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Predictive,Q1,Q1,gold,Yes,True,Yes,Other (fewer than 5 papers each),Physical Sciences,Switzerland,2022
+Causal,Q1,Q1,closed,No,False,No,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q3,Q4,diamond,No,False,No,Dentistry,Health Sciences,India,2022
+Predictive,Q2,Q3,gold,Yes,True,No,Social Sciences,Social Sciences,England,2022
+Causal,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,England,2023
+Descriptive,Q3,Q4,diamond,No,False,No,Medicine,Health Sciences,India,2022
+Descriptive,Q3,None,green,Yes,False,Yes,Medicine,Health Sciences,Italy,2022
+Causal,Q1,Q1,closed,No,False,No,Medicine,Health Sciences,Switzerland,2023
+Predictive,Q2,None,hybrid,Yes,False,Yes,Health Professions,Health Sciences,England,2022
+Causal,Q2,None,diamond,Yes,True,Yes,Medicine,Health Sciences,India,2022
+Descriptive,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Predictive,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,United States,2022
+Predictive,Q1,Q1,gold,Yes,True,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,Switzerland,2022
+Predictive,Q1,Q1,green,No,False,Yes,Dentistry,Health Sciences,United States,2022
+Predictive,Q2,Q3,gold,Yes,True,Yes,Dentistry,Health Sciences,Switzerland,2022
+Descriptive,Q3,Q4,closed,No,False,No,Medicine,Health Sciences,Germany,2022
+Causal,Q1,Q1,green,No,False,Yes,Health Professions,Health Sciences,England,2022
+Causal,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q1,None,closed,No,False,No,Nursing,Health Sciences,United States,2022
+Predictive,Q1,Q3,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q2,Q2,green,Yes,False,No,Other (fewer than 5 papers each),Physical Sciences,Italy,2022
+Descriptive,Q3,None,diamond,No,False,Yes,Dentistry,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q1,Q2,green,No,False,Yes,Dentistry,Health Sciences,Germany,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Causal,Q2,Q2,closed,No,False,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q1,Q2,hybrid,No,False,Yes,Medicine,Health Sciences,Netherlands,2022
+Descriptive,Q2,Q3,closed,No,False,Yes,Dentistry,Health Sciences,Other (fewer than 5 papers each),2022
+Predictive,Q2,None,closed,No,False,Yes,Medicine,Health Sciences,England,2023
+Descriptive,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q1,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Social Sciences,Social Sciences,England,2022
+Descriptive,Q3,Q2,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Descriptive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q1,bronze,No,False,Yes,Medicine,Health Sciences,England,2022
+Causal,Q4,Q4,diamond,No,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Psychology,Social Sciences,England,2022
+Predictive,Q2,Q2,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q3,bronze,No,False,No,Dentistry,Health Sciences,United States,2022
+Descriptive,Q2,Q4,gold,Yes,True,Yes,Health Professions,Health Sciences,Other (fewer than 5 papers each),2022
+Predictive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Predictive,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,closed,No,False,No,Nursing,Health Sciences,United States,2022
+Causal,Q1,Q2,closed,No,False,Yes,Dentistry,Health Sciences,Germany,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Neuroscience,Life Sciences,United States,2022
+Causal,Q1,Q3,closed,No,False,No,Medicine,Health Sciences,United States,2023
+Descriptive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q3,closed,No,False,No,Nursing,Health Sciences,England,2023
+Predictive,Q2,Q2,gold,Yes,False,No,Health Professions,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,Social Sciences,Social Sciences,Switzerland,2022
+Predictive,Q2,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q2,Q2,closed,No,False,No,Medicine,Health Sciences,Germany,2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Dentistry,Health Sciences,Switzerland,2022
+Causal,Q2,None,gold,Yes,False,Yes,Health Professions,Health Sciences,Switzerland,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q1,green,Yes,False,Yes,Medicine,Health Sciences,Italy,2022
+Descriptive,Q2,None,green,No,False,Yes,Medicine,Health Sciences,United States,2023
+Predictive,Q1,Q1,gold,Yes,True,Yes,Other (fewer than 5 papers each),Life Sciences,Switzerland,2021
+Causal,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Causal,Q3,None,diamond,No,False,No,Health Professions,Health Sciences,India,2022
+Descriptive,Q2,None,gold,Yes,False,Yes,Social Sciences,Social Sciences,Switzerland,2022
+Causal,Q3,None,green,Yes,False,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Descriptive,Q3,Q4,diamond,No,False,No,Dentistry,Health Sciences,India,2022
+Causal,Q3,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q3,None,green,No,False,Yes,Medicine,Health Sciences,India,2022
+Causal,Q1,None,closed,No,False,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2023
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q2,closed,No,False,Yes,Medicine,Health Sciences,Germany,2022
+Causal,Q2,Q3,green,No,False,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,United States,2023
+Predictive,Q1,Q1,gold,Yes,False,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,Switzerland,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,England,2022
+Causal,Q2,Q3,closed,No,False,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,Netherlands,2023
+Causal,Q1,Q1,gold,Yes,True,Yes,Other (fewer than 5 papers each),Social Sciences,England,2022
+Causal,Q1,Q1,hybrid,No,False,No,Health Professions,Health Sciences,United States,2022
+Causal,Q3,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q4,Q4,gold,Yes,True,No,Psychology,Social Sciences,Other (fewer than 5 papers each),2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Health Professions,Health Sciences,United States,2023
+Descriptive,Q2,None,gold,Yes,False,Yes,Social Sciences,Social Sciences,Switzerland,2022
+Descriptive,Q2,Q3,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q2,green,Yes,False,No,Dentistry,Health Sciences,Italy,2022
+Causal,Q2,Q2,closed,No,False,No,"Biochemistry, Genetics and Molecular Biology",Life Sciences,United States,2022
+Causal,Q2,Q2,green,Yes,False,No,,,Italy,2022
+Descriptive,Q2,Q3,closed,No,False,No,Health Professions,Health Sciences,England,2022
+Causal,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,Netherlands,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Health Professions,Health Sciences,United States,2022
+Descriptive,Q3,None,closed,No,False,No,Health Professions,Health Sciences,United States,2022
+Causal,Q1,Q3,gold,Yes,True,Yes,Other (fewer than 5 papers each),Life Sciences,England,2022
+Predictive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q3,closed,No,False,No,Psychology,Social Sciences,England,2022
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q3,Q4,hybrid,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q1,None,gold,Yes,True,Yes,Nursing,Health Sciences,England,2022
+Causal,Q3,Q3,diamond,Yes,False,Yes,Psychology,Social Sciences,Saudi Arabia,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Health Professions,Health Sciences,England,2022
+Causal,Q3,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Predictive,Q2,None,hybrid,Yes,False,Yes,Neuroscience,Life Sciences,United States,2022
+Causal,Q1,Q4,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Dentistry,Health Sciences,England,2022
+Descriptive,Q3,None,green,Yes,False,Yes,Medicine,Health Sciences,India,2021
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Other (fewer than 5 papers each),Social Sciences,Switzerland,2022
+Causal,Q1,Q1,closed,No,False,No,Health Professions,Health Sciences,United States,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q2,None,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,United States,2023
+Predictive,Q1,Q3,closed,No,False,No,Health Professions,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q2,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,closed,No,False,No,Social Sciences,Social Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,green,No,False,Yes,Medicine,Health Sciences,England,2022
+Causal,Q2,Q3,bronze,No,False,No,Psychology,Social Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Other (fewer than 5 papers each),Social Sciences,Switzerland,2021
+Predictive,Q2,None,hybrid,Yes,False,Yes,Health Professions,Health Sciences,England,2022
+Causal,Q1,Q1,green,No,False,Yes,Psychology,Social Sciences,United States,2022
+Predictive,Q1,Q1,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q4,closed,No,False,Yes,Medicine,Health Sciences,Netherlands,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Neuroscience,Life Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,Computer Science,Physical Sciences,Switzerland,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Dentistry,Health Sciences,Switzerland,2022
+Causal,Q2,None,gold,Yes,False,Yes,Psychology,Social Sciences,Switzerland,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Computer Science,Physical Sciences,United States,2022
+Causal,Q2,Q2,hybrid,No,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q3,None,hybrid,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Health Professions,Health Sciences,Switzerland,2022
+Descriptive,Q1,Q3,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q3,closed,No,False,No,Medicine,Health Sciences,England,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Computer Science,Physical Sciences,United States,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Computer Science,Physical Sciences,United States,2022
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q1,closed,No,False,No,Computer Science,Physical Sciences,United States,2022
+Causal,Q2,Q3,closed,Yes,False,No,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q1,bronze,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,False,Yes,Neuroscience,Life Sciences,Switzerland,2022
+Causal,Q3,Q4,closed,Yes,False,No,Medicine,Health Sciences,Germany,2022
+Causal,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Predictive,Q1,Q1,closed,No,False,No,Psychology,Social Sciences,United States,2022
+Causal,Q3,None,gold,Yes,True,Yes,Social Sciences,Social Sciences,Other (fewer than 5 papers each),2022
+Descriptive,Q2,Q3,green,No,False,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Psychology,Social Sciences,Switzerland,2022
+Causal,Q2,Q2,closed,Yes,False,No,Dentistry,Health Sciences,Italy,2022
+Causal,Q1,Q3,closed,No,False,No,Neuroscience,Life Sciences,United States,2022
+Causal,Q2,Q4,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Descriptive,Q4,Q4,diamond,No,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Causal,Q1,Q1,diamond,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2021
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q4,closed,No,False,No,Other (fewer than 5 papers each),Life Sciences,Switzerland,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Health Professions,Health Sciences,Switzerland,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Other (fewer than 5 papers each),Life Sciences,United States,2022
+Causal,Q2,Q3,bronze,No,False,Yes,Medicine,Health Sciences,United States,2023
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q3,Q3,gold,Yes,True,Yes,Health Professions,Health Sciences,United States,2022
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Nursing,Health Sciences,United States,2023
+Causal,Q1,Q1,closed,No,False,No,Neuroscience,Life Sciences,England,2022
+Causal,Q3,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,India,2022
+Causal,Q1,Q1,closed,No,False,No,Medicine,Health Sciences,England,2023
+Predictive,Q2,Q2,hybrid,No,False,No,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,United States,2023
+Causal,Q1,None,gold,Yes,True,No,Medicine,Health Sciences,England,2023
+Causal,Q1,Q1,gold,Yes,True,Yes,Social Sciences,Social Sciences,Other (fewer than 5 papers each),2022
+Causal,Q2,Q3,closed,No,False,Yes,Medicine,Health Sciences,Germany,2022
+Descriptive,Q2,Q1,hybrid,No,False,No,Medicine,Health Sciences,Other (fewer than 5 papers each),2023
+Causal,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q3,Q4,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,Netherlands,2022
+Causal,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,Italy,2022
+Predictive,Q3,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Psychology,Social Sciences,Switzerland,2022
+Descriptive,Q3,None,closed,No,False,Yes,Medicine,Health Sciences,United States,2023
+Predictive,Q1,Q3,gold,Yes,True,Yes,Neuroscience,Life Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Psychology,Social Sciences,Switzerland,2022
+Causal,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,United States,2023
+Descriptive,Q2,Q3,closed,No,False,No,Neuroscience,Life Sciences,United States,2022
+Descriptive,Q1,Q1,gold,Yes,True,No,Medicine,Health Sciences,England,2022
+Descriptive,Q2,Q4,green,No,False,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q3,closed,Yes,False,No,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,bronze,No,False,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q2,None,gold,Yes,False,Yes,Social Sciences,Social Sciences,Switzerland,2022
+Predictive,Q1,Q1,closed,No,False,No,Dentistry,Health Sciences,United States,2022
+Causal,Q2,Q2,green,Yes,False,No,Dentistry,Health Sciences,Italy,2022
+Causal,Q1,Q2,closed,No,False,No,Dentistry,Health Sciences,United States,2022
+Descriptive,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Social Sciences,Social Sciences,England,2022
+Descriptive,Q1,Q1,bronze,No,False,Yes,Medicine,Health Sciences,Germany,2022
+Causal,Q3,Q4,gold,Yes,True,No,Medicine,Health Sciences,Italy,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Computer Science,Physical Sciences,England,2022
+Causal,Q1,Q2,closed,No,False,Yes,Medicine,Health Sciences,United States,2023
+Predictive,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q3,Q4,diamond,Yes,False,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Predictive,Q2,Q2,gold,Yes,False,No,Other (fewer than 5 papers each),Physical Sciences,United States,2023
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q3,hybrid,No,False,Yes,Medicine,Health Sciences,United States,2023
+Causal,Q1,Q1,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,None,gold,Yes,False,Yes,Dentistry,Health Sciences,Switzerland,2022
+Causal,Q3,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,Switzerland,2022
+Causal,Q1,Q3,bronze,No,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q3,hybrid,No,False,Yes,Psychology,Social Sciences,England,2022
+Causal,Q1,Q2,bronze,No,False,Yes,Medicine,Health Sciences,Germany,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Psychology,Social Sciences,Switzerland,2022
+Causal,Q3,Q4,gold,Yes,True,No,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Descriptive,Q3,Q4,diamond,No,False,No,Other (fewer than 5 papers each),Social Sciences,India,2022
+Predictive,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2023
+Causal,Q1,Q1,hybrid,No,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Psychology,Social Sciences,England,2022
+Descriptive,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Descriptive,Q1,Q3,gold,Yes,True,Yes,Other (fewer than 5 papers each),Life Sciences,England,2022
+Causal,Q1,Q1,green,No,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q4,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q2,Q2,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q3,Q4,closed,No,False,No,Neuroscience,Life Sciences,Other (fewer than 5 papers each),2022
+Predictive,-,None,hybrid,Yes,False,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,closed,No,False,No,Psychology,Social Sciences,United States,2022
+Descriptive,Q2,Q3,closed,No,False,No,Health Professions,Health Sciences,United States,2022
+Predictive,Q3,Q4,gold,Yes,True,No,Medicine,Health Sciences,Switzerland,2022
+Descriptive,Q1,Q4,bronze,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q3,Q4,closed,No,False,No,"Biochemistry, Genetics and Molecular Biology",Life Sciences,United States,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Psychology,Social Sciences,United States,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Computer Science,Physical Sciences,Switzerland,2022
+Causal,Q1,Q2,hybrid,No,False,Yes,Psychology,Social Sciences,Netherlands,2022
+Predictive,Q1,Q3,closed,No,False,No,Other (fewer than 5 papers each),Life Sciences,United States,2022
+Causal,Q2,None,closed,No,False,No,Nursing,Health Sciences,England,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Computer Science,Physical Sciences,United States,2023
+Descriptive,Q1,Q2,closed,No,False,No,Psychology,Social Sciences,England,2023
+Causal,Q1,Q1,green,No,False,Yes,Health Professions,Health Sciences,England,2022
+Descriptive,Q3,None,diamond,No,False,No,Other (fewer than 5 papers each),Social Sciences,India,2022
+Descriptive,Q1,Q1,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q3,closed,No,False,Yes,Medicine,Health Sciences,United States,2023
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q1,Q2,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Social Sciences,Social Sciences,United States,2022
+Descriptive,Q1,Q1,gold,Yes,True,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,England,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q3,None,green,No,False,No,Medicine,Health Sciences,Italy,2022
+Descriptive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q3,None,bronze,No,False,No,Psychology,Social Sciences,United States,2022
+Causal,Q1,Q2,bronze,No,False,Yes,Social Sciences,Social Sciences,United States,2023
+Causal,Q2,None,hybrid,Yes,False,Yes,Dentistry,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,Computer Science,Physical Sciences,Switzerland,2022
+Causal,Q1,Q2,green,No,False,Yes,Medicine,Health Sciences,United States,2022
+Descriptive,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Descriptive,Q2,None,hybrid,Yes,False,Yes,Dentistry,Health Sciences,United States,2022
+Causal,Q1,None,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q1,Q1,closed,No,False,No,Other (fewer than 5 papers each),Social Sciences,Germany,2022
+Descriptive,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q4,gold,Yes,True,No,Social Sciences,Social Sciences,Italy,2022
+Causal,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,green,No,False,Yes,Other (fewer than 5 papers each),Physical Sciences,United States,2022
+Causal,Q3,Q3,diamond,Yes,False,Yes,Medicine,Health Sciences,Saudi Arabia,2022
+Predictive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q2,Q2,closed,No,False,No,Medicine,Health Sciences,United States,2023
+Causal,Q2,None,gold,Yes,False,Yes,Social Sciences,Social Sciences,Switzerland,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q1,Q3,closed,No,False,No,Social Sciences,Social Sciences,United States,2022
+Causal,Q2,None,closed,No,False,No,Medicine,Health Sciences,United States,2023
+Causal,Q2,Q3,closed,No,False,No,Nursing,Health Sciences,England,2022
+Predictive,Q2,Q3,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Descriptive,Q1,Q1,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q2,None,gold,Yes,False,Yes,Medicine,Health Sciences,Switzerland,2022
+Causal,Q2,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Predictive,Q2,None,hybrid,Yes,False,Yes,Neuroscience,Life Sciences,England,2022
+Descriptive,Q2,Q4,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,closed,No,False,No,Psychology,Social Sciences,United States,2022
+Predictive,Q2,Q2,closed,No,False,No,Medicine,Health Sciences,Germany,2022
+Descriptive,Q1,Q1,green,No,False,Yes,Health Professions,Health Sciences,United States,2023
+Causal,Q1,Q3,hybrid,No,False,No,Medicine,Health Sciences,England,2023
+Descriptive,Q2,Q4,closed,No,False,No,"Biochemistry, Genetics and Molecular Biology",Life Sciences,Germany,2022
+Causal,Q2,None,gold,Yes,False,Yes,Social Sciences,Social Sciences,Switzerland,2022
+Causal,Q2,None,gold,Yes,False,Yes,Psychology,Social Sciences,Switzerland,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,"Biochemistry, Genetics and Molecular Biology",Life Sciences,England,2022
+Causal,Q1,Q1,gold,Yes,True,No,Medicine,Health Sciences,England,2022
+Descriptive,Q3,Q3,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,United States,2022
+Causal,Q2,None,hybrid,Yes,False,Yes,Dentistry,Health Sciences,England,2022
+Causal,Q2,Q3,hybrid,No,False,Yes,Medicine,Health Sciences,England,2023
+Predictive,Q2,None,hybrid,Yes,False,Yes,Neuroscience,Life Sciences,United States,2022
+Causal,Q1,Q3,closed,No,False,No,Health Professions,Health Sciences,England,2022
+Descriptive,Q1,Q1,gold,Yes,True,Yes,Medicine,Health Sciences,Switzerland,2022
+Predictive,-,None,hybrid,Yes,False,Yes,Dentistry,Health Sciences,United States,2022
+Causal,Q3,Q4,diamond,No,False,No,Dentistry,Health Sciences,India,2022
+Descriptive,Q1,Q3,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q2,Q3,closed,Yes,True,No,Medicine,Health Sciences,Netherlands,2022
+Predictive,Q1,Q2,gold,Yes,True,Yes,Medicine,Health Sciences,England,2022
+Descriptive,Q1,Q1,closed,No,False,No,Medicine,Health Sciences,England,2022
+Causal,Q1,Q2,gold,Yes,True,Yes,Psychology,Social Sciences,England,2022
+Predictive,Q2,Q3,bronze,No,False,No,Dentistry,Health Sciences,Other (fewer than 5 papers each),2023
+Descriptive,Q3,Q4,closed,No,False,No,Medicine,Health Sciences,United States,2023
+Causal,Q3,None,gold,Yes,True,Yes,Medicine,Health Sciences,Other (fewer than 5 papers each),2022
+Causal,Q2,Q3,closed,No,False,No,Medicine,Health Sciences,United States,2022
+Predictive,Q1,Q2,green,No,False,No,"Biochemistry, Genetics and Molecular Biology",Life Sciences,England,2022
+Descriptive,Q2,Q3,closed,No,False,No,Medicine,Health Sciences,United States,2022

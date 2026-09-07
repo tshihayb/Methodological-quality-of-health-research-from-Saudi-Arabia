@@ -1,0 +1,44 @@
+variable,papers,agreed_pairs,both_wrong,rate,source_round,basis,is_proxy
+causal_hand_miss_exposure,5,191,133,0.696335078534031,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_miss_exposure,5,187,124,0.663101604278075,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_design,5,220,139,0.631818181818182,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_err_disc,5,195,96,0.492307692307692,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_err_disc,5,120,50,0.416666666666667,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_base_sel,5,235,92,0.391489361702128,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_diff_or_nondiff_out,5,193,75,0.38860103626943,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_val_exposure,3,98,35,0.357142857142857,2,'does not usually require validation' category added (round-1 change list),FALSE
+causal_sampling,5,241,84,0.348547717842324,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_val_outcome,3,88,30,0.340909090909091,2,'does not usually require validation' category added (round-1 change list),FALSE
+descriptive_val_outcome,3,88,30,0.340909090909091,2,"PROXY (TSA 2026-08-19): borrowed from causal_val_outcome -- same question and option set, other task branch; round 2 has no descriptive papers",TRUE
+causal_hand_miss_outcom,3,135,38,0.281481481481481,2,round-2 change list: time-point guidance added for missing outcome,FALSE
+causal_miss_outcome,3,142,38,0.267605633802817,2,round-2 change list: time-point guidance added for missing outcome,FALSE
+descriptive_outcome_type,5,215,56,0.26046511627907,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_sampling,5,266,65,0.244360902255639,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_comp_dis,5,209,42,0.200956937799043,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_dep_or_indep_misc,5,203,38,0.187192118226601,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_acc_sampl,5,259,43,0.166023166023166,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_confl_task,5,208,34,0.163461538461538,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_sample_ach,5,263,40,0.152091254752852,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_miss_outcome,5,195,29,0.148717948717949,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_sample_size,5,275,40,0.145454545454545,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_base_sel,5,272,38,0.139705882352941,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_hand_miss_outcom,5,284,37,0.130281690140845,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_diff_or_nondiff_exp,5,231,25,0.108225108225108,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_sample_ach,5,302,29,0.0960264900662252,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_sample_size,5,299,23,0.0769230769230769,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_acc_sampl,5,237,18,0.0759493670886076,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_base_conf_meth,3,177,11,0.0621468926553672,2,option relabelled 'no adjustment for BASELINE confounding' -> 'no adjustment for confounding',FALSE
+causal_tv_conf_meth,3,129,8,0.062015503875969,2,option relabelled 'no adjustment for BASELINE confounding' -> 'no adjustment for confounding',FALSE
+causal_exposure_type,3,182,10,0.0549450549450549,2,"option labels shortened: 'Subjective (e.g., feelings, pain...)' -> 'Subjective'",FALSE
+causal_conf_var_det,3,158,4,0.0253164556962025,2,option relabelled 'no adjustment for baseline and time-varying' -> 'no adjustment for confounding',FALSE
+causal_ltfu_acc,3,190,1,0.00526315789473684,2,round-2 change list: time-point guidance added for differential loss to follow-up,FALSE
+causal_ltfu_bias,3,190,1,0.00526315789473684,2,round-2 change list: time-point guidance added for differential loss to follow-up,FALSE
+causal_outcome_type,3,200,1,0.005,2,"option labels shortened: 'Objective (e.g., measurements...)' -> 'Objective'",FALSE
+causal_out_bias_acc,5,309,1,0.00323624595469256,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_exp_bias_acc,5,333,1,0.003003003003003,1,stable across rounds; round 1 has 10 papers,FALSE
+task,10,746,1,0.00134048257372654,1,stable across rounds; round 1 has 10 papers,FALSE
+causal_pop,5,367,0,0,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_design,5,378,0,0,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_out_bias_acc,5,378,0,0,1,stable across rounds; round 1 has 10 papers,FALSE
+descriptive_pop,5,378,0,0,1,stable across rounds; round 1 has 10 papers,FALSE
+recusal,10,780,0,0,1,stable across rounds; round 1 has 10 papers,FALSE

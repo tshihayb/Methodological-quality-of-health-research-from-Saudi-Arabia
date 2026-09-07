@@ -1,0 +1,54 @@
+# Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Talal S. Alshihayb, Yasser Albogami and the
+Assessment of Healthcare Research in Saudi Arabia study team
+
+## Scope
+
+This licence applies to the **data, documentation and manuscript text** in this
+repository:
+
+- `data/` — derived analysis datasets
+- `docs/` — methods notes, evidence base, decisions, project memory
+- `manuscript/` — drafts, assembled text and the submission package
+- `outputs/` — figures, tables and interactive reports
+
+Source code is licensed separately under the MIT Licence — see `LICENSE`.
+
+## Not covered by this licence
+
+Material under `private/` is **excluded**. It contains third-party copyrighted
+publications, personal data about named collaborators, and confidential funding
+material. It is not tracked by git, not redistributed, and no licence is granted
+over it. See `docs/EXCLUSION_REGISTER.md`.
+
+Quoted passages from Saudi National Institute of Health and Research, Development
+and Innovation Authority reports remain the property of those bodies and are
+reproduced under fair-dealing for scholarly criticism and review. RDIA's own terms
+require that any quotation cite RDIA explicitly as the source.
+
+## Licence terms
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose,
+  even commercially
+
+Under the following term:
+
+- **Attribution** — You must give appropriate credit, provide a link to the
+  licence, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your use.
+
+No additional restrictions — you may not apply legal terms or technological
+measures that legally restrict others from doing anything the licence permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+## How to attribute
+
+> Alshihayb TS, Albogami Y, et al. Methodological quality of health research from
+> Saudi Arabia: a task-based appraisal of 385 studies published in 2022.
+> Open Science Framework, https://osf.io/gfcv3/. Licensed under CC BY 4.0.
