@@ -1,0 +1,1521 @@
+is_first,is_last,inst_type,institution,city
+True,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+True,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,University of Hail,Hail
+False,False,University,Jouf University,Sakaka
+False,True,University,Jouf University,Sakaka
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Buraidah
+False,False,Military & security-forces medical,Armed Forces Hospital,Jeddah
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Unspecified
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,University,Alfaisal University,Riyadh
+True,True,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,Research centre / institute,Other institutions (fewer than 5 papers each),Riyadh
+True,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,Ministry of Health,Ministry of Health,Tabuk
+False,False,University,Jouf University,Sakaka
+False,True,Ministry of Health,Ministry of Health,Tabuk
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Taif University,Taif
+False,False,University,Taif University,Taif
+False,False,University,Taif University,Taif
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Hospital / medical city,King Abdullah Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Hospital / medical city,King Abdullah Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,True,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,Military & security-forces medical,Armed Forces Hospital,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,True,Military & security-forces medical,Armed Forces Hospital,Jeddah
+True,False,University,King Faisal University,Al-Ahsa
+False,False,University,King Faisal University,Al-Ahsa
+False,True,University,King Faisal University,Al-Ahsa
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,Ministry of Health,Ministry of Health,Makkah
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Makkah
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,University,Umm Al-Qura University,Unspecified
+False,True,University,Umm Al-Qura University,Unspecified
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,True,University,King Khalid University,Abha
+False,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Taif University,Taif
+False,False,University,Taif University,Taif
+True,True,University,King Abdulaziz University,Jeddah
+False,False,University,Jazan University,Jazan
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Taibah University,Unspecified
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,True,University,Other institutions (fewer than 5 papers each),Qassim
+True,False,University,King Khalid University,Other cities (fewer than 5 appearances each)
+False,True,University,King Khalid University,Other cities (fewer than 5 appearances each)
+True,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,University,Jouf University,Unspecified
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,Qassim University,Buraidah
+False,True,University,Qassim University,Buraidah
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,True,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,University,King Abdulaziz University,Jeddah
+True,True,University,Qassim University,Buraidah
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+True,False,University,Jouf University,Sakaka
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Al-Ahsa
+False,False,Ministry of Health,Ministry of Health,Al-Ahsa
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,True,University,Alfaisal University,Riyadh
+True,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Unspecified
+False,True,University,King Saud University,Unspecified
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,True,University,Other institutions (fewer than 5 papers each),Riyadh
+True,True,University,King Saud University,Riyadh
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,Maternity & Children Hospital (MoH),Hail
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Hail
+False,False,University,Almaarefa University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,Jazan University,Jazan
+False,False,University,University of Hail,Hail
+False,False,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,University,Qassim University,Qassim
+False,False,University,King Saud University,Riyadh
+False,False,University,King Abdulaziz University,Jeddah
+True,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+True,False,University,Other institutions (fewer than 5 papers each),Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Khalid University,Abha
+True,False,University,Taibah University,Madinah
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,True,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Unspecified
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,True,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,Qassim University,Qassim
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,Taif University,Taif
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Jeddah
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Jeddah
+False,False,University,Jazan University,Jazan
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,University of Tabuk,Tabuk
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,Almaarefa University,Riyadh
+False,False,University,Imam Abdulrahman Bin Faisal University,Other cities (fewer than 5 appearances each)
+False,False,University,King Khalid University,Abha
+False,False,University,University of Tabuk,Tabuk
+False,False,University,King Khalid University,Abha
+True,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+True,True,University,Umm Al-Qura University,Makkah
+False,False,University,King Saud University,Riyadh
+True,False,University,Jazan University,Jazan
+False,True,University,Jazan University,Jazan
+True,True,Ministry of Health,Other institutions (fewer than 5 papers each),Hail
+True,True,University,King Khalid University,Abha
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,King Fahad Specialist Hospital,Dammam
+False,True,University,King Saud University,Riyadh
+False,False,University,King Khalid University,Abha
+False,False,University,Jazan University,Jazan
+True,False,University,King Saud University,Unspecified
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,True,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+True,False,University,University of Tabuk,Tabuk
+False,False,University,University of Tabuk,Tabuk
+False,False,University,University of Tabuk,Tabuk
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,King Faisal University,Al-Ahsa
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Umm Al-Qura University,Makkah
+False,True,University,Umm Al-Qura University,Makkah
+True,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Faisal University,Al-Ahsa
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Hail
+False,False,University,University of Hail,Hail
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,University of Hail,Hail
+False,True,University,Jouf University,Unspecified
+True,False,Military & security-forces medical,Security Forces Hospital,Riyadh
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,True,University,King Khalid University,Abha
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,True,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,Other institutions (fewer than 5 papers each),Jeddah
+False,True,University,Qassim University,Qassim
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Ministry of Health,Ministry of Health,Jeddah
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Al-Ahsa
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,University,King Faisal University,Al-Ahsa
+False,False,University,Almaarefa University,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,University of Hail,Hail
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Unspecified
+False,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,University,King Faisal University,Al-Ahsa
+True,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Madinah
+True,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,True,University,University of Hail,Hail
+True,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,Ministry of Health,Ministry of Health,Riyadh
+True,False,University,Taibah University,Madinah
+False,False,University,Taif University,Taif
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,Ministry of Health,Ministry of Health,Riyadh
+False,True,University,Jouf University,Unspecified
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,Military & security-forces medical,Armed Forces Hospital,Other cities (fewer than 5 appearances each)
+False,False,Military & security-forces medical,Armed Forces Hospital,Other cities (fewer than 5 appearances each)
+False,False,Military & security-forces medical,Armed Forces Hospital,Other cities (fewer than 5 appearances each)
+False,False,Military & security-forces medical,Armed Forces Hospital,Other cities (fewer than 5 appearances each)
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Unspecified
+False,True,Military & security-forces medical,Armed Forces Hospital,Other cities (fewer than 5 appearances each)
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Unspecified
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,Northern Border University,Other cities (fewer than 5 appearances each)
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,Imam Abdulrahman Bin Faisal University,Other cities (fewer than 5 appearances each)
+False,False,University,Almaarefa University,Riyadh
+False,False,University,King Khalid University,Unspecified
+False,False,University,University of Tabuk,Tabuk
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+True,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,True,University,King Saud University,Riyadh
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Jouf University,Unspecified
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,Qassim University,Buraidah
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,Hospital / medical city,King Fahad Medical City,Riyadh
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,True,University,Princess Nourah Bint Abdulrahman University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Prince Sattam Bin Abdulaziz University,Unspecified
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,True,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,King Khalid University,Abha
+False,True,Ministry of Health,Ministry of Health,Abha
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Unspecified
+False,True,University,King Saud University,Riyadh
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+False,False,University,University of Hail,Hail
+False,False,University,Qassim University,Buraidah
+False,False,University,Taibah University,Madinah
+False,False,University,Majmaah University,Unspecified
+False,False,University,King Saud University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Taibah University,Madinah
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+True,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,Ministry of Health,Ministry of Health,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,True,University,Umm Al-Qura University,Makkah
+False,False,University,Other institutions (fewer than 5 papers each),Madinah
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,True,University,Other institutions (fewer than 5 papers each),Riyadh
+True,False,University,Qassim University,Buraidah
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Qassim University,Qassim
+False,False,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,True,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+True,False,Hospital / medical city,King Abdullah Medical City,Makkah
+False,False,University,Majmaah University,Unspecified
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,Northern Border University,Other cities (fewer than 5 appearances each)
+False,False,University,Qassim University,Qassim
+True,True,University,Jazan University,Jazan
+True,False,University,Imam Abdulrahman Bin Faisal University,Other cities (fewer than 5 appearances each)
+False,False,University,Imam Abdulrahman Bin Faisal University,Other cities (fewer than 5 appearances each)
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Other cities (fewer than 5 appearances each)
+True,True,University,Other institutions (fewer than 5 papers each),Dhahran
+False,False,University,Jazan University,Jazan
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Al-Ahsa
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Al-Ahsa
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Al-Ahsa
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,University,Umm Al-Qura University,Makkah
+False,True,University,Umm Al-Qura University,Makkah
+True,False,University,Umm Al-Qura University,Makkah
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Makkah
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,King Fahad Specialist Hospital,Dammam
+True,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,True,University,Qassim University,Qassim
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,True,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+True,False,University,King Saud University,Riyadh
+True,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,University,King Saud University,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Unspecified
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,Almaarefa University,Riyadh
+False,False,University,Qassim University,Buraidah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Unspecified
+False,False,Hospital / medical city,Maternity & Children Hospital (MoH),Unspecified
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Northern Border University,Unspecified
+False,False,Military & security-forces medical,Security Forces Hospital,Riyadh
+False,False,Military & security-forces medical,Armed Forces Hospital,Unspecified
+False,True,Military & security-forces medical,Security Forces Hospital,Riyadh
+True,False,University,Jouf University,Sakaka
+False,True,University,Jouf University,Sakaka
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,True,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Taif University,Taif
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,King Abdullah Medical City,Makkah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Other cities (fewer than 5 appearances each)
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,King Saud University,Riyadh
+False,False,Ministry of Health,Ministry of Health,Makkah
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,True,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Buraidah
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Qassim University,Qassim
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Riyadh
+False,True,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,King Abdulaziz University,Jeddah
+True,True,University,King Saud University,Riyadh
+True,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Jeddah
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Sakaka
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,True,University,Alfaisal University,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Majmaah University,Unspecified
+False,True,University,Majmaah University,Unspecified
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Madinah
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+True,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,False,University,Majmaah University,Unspecified
+False,True,University,Majmaah University,Unspecified
+True,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Qassim University,Qassim
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,True,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,Hospital / medical city,King Fahad Medical City,Riyadh
+True,False,University,Qassim University,Qassim
+True,False,University,Jazan University,Jazan
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Unspecified
+False,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Madinah
+False,False,University,King Saud University,Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jeddah
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Hospital / medical city,King Abdullah Medical City,Unspecified
+False,True,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,True,University,Jazan University,Jazan
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Jeddah
+True,False,University,Jazan University,Jazan
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,University,Other institutions (fewer than 5 papers each),Qassim
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Taif
+False,False,University,Majmaah University,Riyadh
+False,False,University,Majmaah University,Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Taif
+False,False,University,Majmaah University,Riyadh
+False,False,University,Jazan University,Jazan
+False,False,University,Majmaah University,Riyadh
+False,True,University,Majmaah University,Riyadh
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Hail
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,True,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,Qassim University,Qassim
+True,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Military & security-forces medical,Security Forces Hospital,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+True,False,University,Qassim University,Buraidah
+True,False,University,Jouf University,Unspecified
+False,False,University,Jouf University,Unspecified
+False,False,University,Jouf University,Unspecified
+False,False,University,Jouf University,Unspecified
+False,False,University,Jouf University,Unspecified
+False,False,University,Northern Border University,Unspecified
+False,False,University,Northern Border University,Unspecified
+False,False,University,Taif University,Taif
+True,False,University,Taif University,Taif
+False,False,University,Taif University,Taif
+False,False,University,Taif University,Taif
+False,False,University,King Abdulaziz University,Other cities (fewer than 5 appearances each)
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,Military & security-forces medical,Armed Forces Hospital,Riyadh
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Military & security-forces medical,Armed Forces Hospital,Riyadh
+False,False,Military & security-forces medical,Armed Forces Hospital,Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,True,Military & security-forces medical,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,University,Qassim University,Buraidah
+False,True,University,Qassim University,Buraidah
+True,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+True,False,University,Taibah University,Madinah
+False,False,University,Jouf University,Unspecified
+False,True,University,Princess Nourah Bint Abdulrahman University,Riyadh
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Qassim University,Buraidah
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,Company / industry,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+True,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Taif
+False,True,Military & security-forces medical,Other institutions (fewer than 5 papers each),Taif
+False,False,University,Jazan University,Jazan
+True,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+True,False,Hospital / medical city,Maternity & Children Hospital (MoH),Madinah
+False,False,Hospital / medical city,Maternity & Children Hospital (MoH),Madinah
+False,False,Hospital / medical city,Maternity & Children Hospital (MoH),Madinah
+False,False,Hospital / medical city,Maternity & Children Hospital (MoH),Madinah
+False,True,Hospital / medical city,Maternity & Children Hospital (MoH),Madinah
+True,True,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,University,Taif University,Taif
+False,True,University,Taif University,Taif
+False,False,University,Alfaisal University,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Military & security-forces medical,Armed Forces Hospital,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Jazan University,Jazan
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Taibah University,Madinah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Umm Al-Qura University,Unspecified
+False,False,University,King Abdulaziz University,Jeddah
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Alfaisal University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,True,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+True,False,University,Qassim University,Qassim
+False,False,University,King Faisal University,Unspecified
+False,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Buraidah
+False,False,University,Qassim University,Qassim
+False,False,University,King Saud University,Riyadh
+False,False,University,Qassim University,Other cities (fewer than 5 appearances each)
+False,True,University,Qassim University,Qassim
+True,False,University,King Saud University,Riyadh
+True,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,True,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,True,University,University of Hail,Hail
+True,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,True,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+True,False,Research centre / institute,King Abdullah International Medical Research Center,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Jeddah
+False,False,Ministry of Health,Ministry of Health,Jeddah
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Jeddah
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Jeddah
+False,True,University,Alfaisal University,Riyadh
+True,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dhahran
+False,True,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+False,False,University,King Faisal University,Unspecified
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+True,True,University,Qassim University,Buraidah
+True,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jeddah
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jeddah
+False,True,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,University,King Saud University,Riyadh
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Jeddah
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,True,Hospital / medical city,King Abdulaziz Medical City,Jeddah
+False,False,Hospital / medical city,King Fahad Specialist Hospital,Dammam
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,True,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+False,False,University,King Saud University,Riyadh
+False,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,Military & security-forces medical,Other institutions (fewer than 5 papers each),Riyadh
+True,True,University,Taif University,Taif
+True,False,Hospital / medical city,Maternity & Children Hospital (MoH),Other cities (fewer than 5 appearances each)
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Jazan University,Jazan
+True,False,University,University of Tabuk,Tabuk
+False,False,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+False,False,University,University of Tabuk,Tabuk
+False,False,University,University of Tabuk,Tabuk
+False,False,University,University of Tabuk,Tabuk
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,True,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,True,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,Military & security-forces medical,Security Forces Hospital,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,Almaarefa University,Riyadh
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+False,False,University,Taibah University,Madinah
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Dammam
+True,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Unspecified
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Unspecified
+False,False,University,King Saud University,Riyadh
+False,False,University,King Abdulaziz University,Jeddah
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+False,False,University,Majmaah University,Unspecified
+False,True,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Unspecified
+False,False,University,King Saud University,Unspecified
+False,True,University,King Saud University,Unspecified
+False,False,University,King Saud University,Riyadh
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,True,University,Umm Al-Qura University,Makkah
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,True,University,King Saud University,Riyadh
+True,True,University,Majmaah University,Unspecified
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,True,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+True,False,University,Qassim University,Buraidah
+False,False,University,King Saud University,Unspecified
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,University,Qassim University,Buraidah
+False,False,University,Other institutions (fewer than 5 papers each),Jeddah
+False,False,University,Other institutions (fewer than 5 papers each),Unspecified
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,King Khalid University,Abha
+False,True,University,Other institutions (fewer than 5 papers each),Other cities (fewer than 5 appearances each)
+True,False,University,King Abdulaziz University,Jeddah
+True,False,University,Jazan University,Jazan
+True,False,University,King Khalid University,Abha
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,Research centre / institute,King Abdullah International Medical Research Center,Riyadh
+True,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+True,False,University,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,Other institutions (fewer than 5 papers each),Dammam
+False,True,University,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,King Abdulaziz University,Jeddah
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Qassim University,Buraidah
+False,False,University,King Saud University,Riyadh
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,King Saud University,Riyadh
+False,True,University,Other institutions (fewer than 5 papers each),Unspecified
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,True,University,Princess Nourah Bint Abdulrahman University,Riyadh
+True,False,Military & security-forces medical,Security Forces Hospital,Riyadh
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Military & security-forces medical,Security Forces Hospital,Riyadh
+False,True,Ministry of Health,Ministry of Health,Hail
+True,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,Ministry of Health,Other institutions (fewer than 5 papers each),Hail
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Hail
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Hail
+True,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Other institutions (fewer than 5 papers each),Jeddah
+False,True,University,Other institutions (fewer than 5 papers each),Jeddah
+True,False,University,Umm Al-Qura University,Makkah
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Taibah University,Madinah
+True,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+True,True,University,Taibah University,Madinah
+True,True,University,University of Hail,Hail
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jeddah
+False,True,University,Jouf University,Sakaka
+False,False,University,King Khalid University,Abha
+False,False,University,Northern Border University,Other cities (fewer than 5 appearances each)
+False,False,University,Northern Border University,Other cities (fewer than 5 appearances each)
+True,False,Hospital / medical city,Maternity & Children Hospital (MoH),Dammam
+False,True,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,True,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,True,University,King Khalid University,Abha
+False,False,University,Qassim University,Other cities (fewer than 5 appearances each)
+False,True,University,Qassim University,Other cities (fewer than 5 appearances each)
+True,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,Other institutions (fewer than 5 papers each),Madinah
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+False,False,University,Jouf University,Sakaka
+True,False,Other sectors,Other institutions (fewer than 5 papers each),Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+False,True,University,Umm Al-Qura University,Makkah
+True,False,University,King Abdulaziz University,Jeddah
+False,False,Ministry of Health,Ministry of Health,Jeddah
+False,False,Ministry of Health,Ministry of Health,Riyadh
+False,False,Ministry of Health,Ministry of Health,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Taif
+False,True,Hospital / medical city,King Fahad Medical City,Riyadh
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Jazan University,Jazan
+True,False,University,Other institutions (fewer than 5 papers each),Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Taif University,Taif
+False,False,University,Taif University,Taif
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,True,University,Jazan University,Jazan
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,King Khalid University,Abha
+True,False,University,Princess Nourah Bint Abdulrahman University,Riyadh
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Imam Abdulrahman Bin Faisal University,Dammam
+False,False,University,King Faisal University,Al-Ahsa
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,False,University,Taibah University,Madinah
+False,True,University,Taibah University,Madinah
+False,False,University,Qassim University,Qassim
+False,False,University,Qassim University,Qassim
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+True,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,University,University of Hail,Hail
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,True,University,Other institutions (fewer than 5 papers each),Riyadh
+True,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,True,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+True,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+True,False,University,King Faisal University,Al-Ahsa
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dammam
+False,False,University,King Faisal University,Al-Ahsa
+False,False,University,King Faisal University,Al-Ahsa
+False,False,University,King Faisal University,Al-Ahsa
+False,False,University,King Faisal University,Al-Ahsa
+False,True,University,Jazan University,Jazan
+False,True,University,Princess Nourah Bint Abdulrahman University,Riyadh
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,True,University,King Khalid University,Abha
+True,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+True,False,University,King Saud University,Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,False,Military & security-forces medical,Prince Sultan Military Medical City,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+True,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+False,False,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Riyadh
+False,True,Hospital & research centre,King Faisal Specialist Hospital & Research Centre,Jeddah
+True,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Majmaah University,Unspecified
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,False,University,Prince Sattam Bin Abdulaziz University,Al-Kharj
+False,False,University,Taibah University,Unspecified
+False,False,Hospital / medical city,King Fahad Specialist Hospital,Dammam
+True,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jazan
+False,False,Company / industry,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,University,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+False,False,University,Umm Al-Qura University,Makkah
+False,False,University,Umm Al-Qura University,Makkah
+True,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Other sectors,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,Qassim University,Qassim
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+True,True,Military & security-forces medical,Other institutions (fewer than 5 papers each),Dammam
+True,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Fahad Medical City,Riyadh
+False,True,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+True,False,University,King Khalid University,Abha
+False,False,University,King Khalid University,Abha
+True,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Riyadh
+False,False,Company / industry,Johns Hopkins Aramco Healthcare / Saudi Aramco,Dhahran
+False,True,University,King Saud University,Riyadh
+True,False,University,King Faisal University,Unspecified
+False,False,University,King Faisal University,Unspecified
+False,False,University,King Faisal University,Unspecified
+False,False,University,King Faisal University,Unspecified
+False,False,University,King Faisal University,Unspecified
+False,True,University,King Faisal University,Unspecified
+True,True,University,King Khalid University,Unspecified
+True,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Jazan
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Jazan
+False,False,Military & security-forces medical,Other institutions (fewer than 5 papers each),Jazan
+False,True,Military & security-forces medical,Other institutions (fewer than 5 papers each),Jazan
+True,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,False,University,Imam Mohammad Ibn Saud Islamic University,Riyadh
+False,True,University,Taif University,Taif
+True,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,University,Jazan University,Jazan
+False,False,Hospital / medical city,Other institutions (fewer than 5 papers each),Jazan
+False,True,Hospital / medical city,Other institutions (fewer than 5 papers each),Jazan
+True,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh
+True,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,King Saud bin Abdulaziz University for Health Sciences,Riyadh
+False,True,Hospital / medical city,King Abdulaziz Medical City,Riyadh
+False,False,University,Qassim University,Buraidah
+False,False,University,Alfaisal University,Riyadh
+True,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,False,University,King Abdulaziz University,Jeddah
+False,True,University,King Abdulaziz University,Jeddah
+False,False,Hospital / medical city,King Fahad Specialist Hospital,Dammam
+False,False,University,King Saud University,Riyadh
+True,False,Hospital / medical city,King Abdullah Medical City,Makkah
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,False,University,King Saud University,Riyadh
+False,True,University,King Saud University,Riyadh

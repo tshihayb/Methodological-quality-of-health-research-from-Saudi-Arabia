@@ -1,0 +1,807 @@
+base,display,tool_order,round,value,reviewer
+task,Study task,1,1st,1,R1
+task,Study task,1,1st,0.8,R2
+task,Study task,1,1st,1,R3
+task,Study task,1,1st,1,R4
+task,Study task,1,1st,1,R5
+task,Study task,1,1st,1,R6
+task,Study task,1,1st,1,R7
+task,Study task,1,1st,0.9,R8
+task,Study task,1,1st,1,R9
+task,Study task,1,1st,1,R10
+task,Study task,1,1st,1,R11
+task,Study task,1,1st,1,R12
+task,Study task,1,1st,1,R13
+task,Study task,1,2nd,1,R1
+task,Study task,1,2nd,1,R2
+task,Study task,1,2nd,1,R3
+task,Study task,1,2nd,1,R4
+task,Study task,1,2nd,1,R5
+task,Study task,1,2nd,1,R6
+task,Study task,1,2nd,1,R7
+task,Study task,1,2nd,1,R8
+task,Study task,1,2nd,1,R9
+task,Study task,1,2nd,1,R10
+task,Study task,1,2nd,1,R11
+task,Study task,1,2nd,1,R12
+task,Study task,1,2nd,1,R13
+design,Study design,2,1st,0.8,R1
+design,Study design,2,1st,0.75,R2
+design,Study design,2,1st,0.6,R3
+design,Study design,2,1st,0.8,R4
+design,Study design,2,1st,0.6,R5
+design,Study design,2,1st,0.7,R6
+design,Study design,2,1st,0.8,R7
+design,Study design,2,1st,0.555555555555556,R8
+design,Study design,2,1st,0.6,R9
+design,Study design,2,1st,0.8,R10
+design,Study design,2,1st,0.6,R11
+design,Study design,2,1st,0.8,R12
+design,Study design,2,1st,0.6,R13
+design,Study design,2,2nd,1,R1
+design,Study design,2,2nd,1,R2
+design,Study design,2,2nd,1,R3
+design,Study design,2,2nd,0.666666666666667,R4
+design,Study design,2,2nd,1,R5
+design,Study design,2,2nd,1,R6
+design,Study design,2,2nd,1,R7
+design,Study design,2,2nd,1,R8
+design,Study design,2,2nd,1,R9
+design,Study design,2,2nd,0.666666666666667,R10
+design,Study design,2,2nd,1,R11
+design,Study design,2,2nd,1,R12
+design,Study design,2,2nd,1,R13
+pop,Population from Saudi,3,1st,1,R1
+pop,Population from Saudi,3,1st,1,R2
+pop,Population from Saudi,3,1st,1,R3
+pop,Population from Saudi,3,1st,1,R4
+pop,Population from Saudi,3,1st,1,R5
+pop,Population from Saudi,3,1st,1,R6
+pop,Population from Saudi,3,1st,1,R7
+pop,Population from Saudi,3,1st,1,R8
+pop,Population from Saudi,3,1st,1,R9
+pop,Population from Saudi,3,1st,1,R10
+pop,Population from Saudi,3,1st,1,R11
+pop,Population from Saudi,3,1st,1,R12
+pop,Population from Saudi,3,1st,1,R13
+pop,Population from Saudi,3,2nd,1,R1
+pop,Population from Saudi,3,2nd,1,R2
+pop,Population from Saudi,3,2nd,0.666666666666667,R3
+pop,Population from Saudi,3,2nd,1,R4
+pop,Population from Saudi,3,2nd,1,R5
+pop,Population from Saudi,3,2nd,1,R6
+pop,Population from Saudi,3,2nd,1,R7
+pop,Population from Saudi,3,2nd,1,R8
+pop,Population from Saudi,3,2nd,1,R9
+pop,Population from Saudi,3,2nd,0.333333333333333,R10
+pop,Population from Saudi,3,2nd,0.666666666666667,R11
+pop,Population from Saudi,3,2nd,1,R12
+pop,Population from Saudi,3,2nd,1,R13
+sampling,Sampling type,4,1st,0.5,R1
+sampling,Sampling type,4,1st,0.375,R2
+sampling,Sampling type,4,1st,0.4,R3
+sampling,Sampling type,4,1st,0.8,R4
+sampling,Sampling type,4,1st,0.4,R5
+sampling,Sampling type,4,1st,0.6,R6
+sampling,Sampling type,4,1st,0.6,R7
+sampling,Sampling type,4,1st,0.777777777777778,R8
+sampling,Sampling type,4,1st,0.6,R9
+sampling,Sampling type,4,1st,0.8,R10
+sampling,Sampling type,4,1st,0.6,R11
+sampling,Sampling type,4,1st,0.9,R12
+sampling,Sampling type,4,1st,0.6,R13
+sampling,Sampling type,4,2nd,0.666666666666667,R1
+sampling,Sampling type,4,2nd,0.666666666666667,R2
+sampling,Sampling type,4,2nd,0.333333333333333,R3
+sampling,Sampling type,4,2nd,0.333333333333333,R4
+sampling,Sampling type,4,2nd,0.666666666666667,R5
+sampling,Sampling type,4,2nd,0.666666666666667,R6
+sampling,Sampling type,4,2nd,0.666666666666667,R7
+sampling,Sampling type,4,2nd,0.333333333333333,R8
+sampling,Sampling type,4,2nd,0.333333333333333,R9
+sampling,Sampling type,4,2nd,0.666666666666667,R10
+sampling,Sampling type,4,2nd,1,R11
+sampling,Sampling type,4,2nd,0.666666666666667,R12
+sampling,Sampling type,4,2nd,0.666666666666667,R13
+sample_size,Sample size calculation was done,5,1st,0.8,R1
+sample_size,Sample size calculation was done,5,1st,0.75,R2
+sample_size,Sample size calculation was done,5,1st,0.6,R3
+sample_size,Sample size calculation was done,5,1st,0.8,R4
+sample_size,Sample size calculation was done,5,1st,0.7,R5
+sample_size,Sample size calculation was done,5,1st,0.7,R6
+sample_size,Sample size calculation was done,5,1st,0.8,R7
+sample_size,Sample size calculation was done,5,1st,0.888888888888889,R8
+sample_size,Sample size calculation was done,5,1st,0.8,R9
+sample_size,Sample size calculation was done,5,1st,0.9,R10
+sample_size,Sample size calculation was done,5,1st,0.8,R11
+sample_size,Sample size calculation was done,5,1st,0.8,R12
+sample_size,Sample size calculation was done,5,1st,1,R13
+sample_size,Sample size calculation was done,5,2nd,1,R1
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R2
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R3
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R4
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R5
+sample_size,Sample size calculation was done,5,2nd,1,R6
+sample_size,Sample size calculation was done,5,2nd,1,R7
+sample_size,Sample size calculation was done,5,2nd,0.333333333333333,R8
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R9
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R10
+sample_size,Sample size calculation was done,5,2nd,1,R11
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R12
+sample_size,Sample size calculation was done,5,2nd,0.666666666666667,R13
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.5,R1
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.75,R2
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.6,R3
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.8,R4
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.7,R5
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.6,R6
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.7,R7
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.888888888888889,R8
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.7,R9
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.9,R10
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.8,R11
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.8,R12
+acc_sampl,Accounting for other issues in calculation of sample size,6,1st,0.8,R13
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,1,R1
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,1,R2
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.333333333333333,R3
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.666666666666667,R4
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.666666666666667,R5
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,1,R6
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.666666666666667,R7
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.333333333333333,R8
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.333333333333333,R9
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.333333333333333,R10
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,1,R11
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.666666666666667,R12
+acc_sampl,Accounting for other issues in calculation of sample size,6,2nd,0.666666666666667,R13
+sample_ach,Achieving sample size calculated,7,1st,0.7,R1
+sample_ach,Achieving sample size calculated,7,1st,0.875,R2
+sample_ach,Achieving sample size calculated,7,1st,0.6,R3
+sample_ach,Achieving sample size calculated,7,1st,0.8,R4
+sample_ach,Achieving sample size calculated,7,1st,0.7,R5
+sample_ach,Achieving sample size calculated,7,1st,0.6,R6
+sample_ach,Achieving sample size calculated,7,1st,0.8,R7
+sample_ach,Achieving sample size calculated,7,1st,0.888888888888889,R8
+sample_ach,Achieving sample size calculated,7,1st,0.8,R9
+sample_ach,Achieving sample size calculated,7,1st,0.9,R10
+sample_ach,Achieving sample size calculated,7,1st,0.8,R11
+sample_ach,Achieving sample size calculated,7,1st,0.8,R12
+sample_ach,Achieving sample size calculated,7,1st,0.9,R13
+sample_ach,Achieving sample size calculated,7,2nd,1,R1
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R2
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R3
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R4
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R5
+sample_ach,Achieving sample size calculated,7,2nd,1,R6
+sample_ach,Achieving sample size calculated,7,2nd,1,R7
+sample_ach,Achieving sample size calculated,7,2nd,0.333333333333333,R8
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R9
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R10
+sample_ach,Achieving sample size calculated,7,2nd,1,R11
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R12
+sample_ach,Achieving sample size calculated,7,2nd,0.666666666666667,R13
+base_sel,Accounting for baseline selection bias,8,1st,0.7,R1
+base_sel,Accounting for baseline selection bias,8,1st,0.5,R2
+base_sel,Accounting for baseline selection bias,8,1st,0.6,R3
+base_sel,Accounting for baseline selection bias,8,1st,0.8,R4
+base_sel,Accounting for baseline selection bias,8,1st,0.6,R5
+base_sel,Accounting for baseline selection bias,8,1st,0.6,R6
+base_sel,Accounting for baseline selection bias,8,1st,0.4,R7
+base_sel,Accounting for baseline selection bias,8,1st,0.777777777777778,R8
+base_sel,Accounting for baseline selection bias,8,1st,0.7,R9
+base_sel,Accounting for baseline selection bias,8,1st,0.8,R10
+base_sel,Accounting for baseline selection bias,8,1st,0.7,R11
+base_sel,Accounting for baseline selection bias,8,1st,0.8,R12
+base_sel,Accounting for baseline selection bias,8,1st,0.6,R13
+base_sel,Accounting for baseline selection bias,8,2nd,0.666666666666667,R1
+base_sel,Accounting for baseline selection bias,8,2nd,0.333333333333333,R2
+base_sel,Accounting for baseline selection bias,8,2nd,0.666666666666667,R3
+base_sel,Accounting for baseline selection bias,8,2nd,0.333333333333333,R4
+base_sel,Accounting for baseline selection bias,8,2nd,0.666666666666667,R5
+base_sel,Accounting for baseline selection bias,8,2nd,1,R6
+base_sel,Accounting for baseline selection bias,8,2nd,0.333333333333333,R7
+base_sel,Accounting for baseline selection bias,8,2nd,0.333333333333333,R8
+base_sel,Accounting for baseline selection bias,8,2nd,0.333333333333333,R9
+base_sel,Accounting for baseline selection bias,8,2nd,0.666666666666667,R10
+base_sel,Accounting for baseline selection bias,8,2nd,1,R11
+base_sel,Accounting for baseline selection bias,8,2nd,0.666666666666667,R12
+base_sel,Accounting for baseline selection bias,8,2nd,0.666666666666667,R13
+outcome_type,Outcome type,9,1st,0.8,R1
+outcome_type,Outcome type,9,1st,0.625,R2
+outcome_type,Outcome type,9,1st,0.9,R3
+outcome_type,Outcome type,9,1st,0.9,R4
+outcome_type,Outcome type,9,1st,0.7,R5
+outcome_type,Outcome type,9,1st,0.9,R6
+outcome_type,Outcome type,9,1st,0.2,R7
+outcome_type,Outcome type,9,1st,1,R8
+outcome_type,Outcome type,9,1st,0.9,R9
+outcome_type,Outcome type,9,1st,0.8,R10
+outcome_type,Outcome type,9,1st,0.8,R11
+outcome_type,Outcome type,9,1st,0.9,R12
+outcome_type,Outcome type,9,1st,0.8,R13
+outcome_type,Outcome type,9,2nd,1,R1
+outcome_type,Outcome type,9,2nd,1,R2
+outcome_type,Outcome type,9,2nd,1,R3
+outcome_type,Outcome type,9,2nd,0.666666666666667,R4
+outcome_type,Outcome type,9,2nd,1,R5
+outcome_type,Outcome type,9,2nd,1,R6
+outcome_type,Outcome type,9,2nd,1,R7
+outcome_type,Outcome type,9,2nd,1,R8
+outcome_type,Outcome type,9,2nd,1,R9
+outcome_type,Outcome type,9,2nd,0.666666666666667,R10
+outcome_type,Outcome type,9,2nd,1,R11
+outcome_type,Outcome type,9,2nd,1,R12
+outcome_type,Outcome type,9,2nd,0.666666666666667,R13
+val_outcome,Outcome validity,10,1st,0.7,R1
+val_outcome,Outcome validity,10,1st,0.75,R2
+val_outcome,Outcome validity,10,1st,0.6,R3
+val_outcome,Outcome validity,10,1st,0.6,R4
+val_outcome,Outcome validity,10,1st,0.4,R5
+val_outcome,Outcome validity,10,1st,0.8,R6
+val_outcome,Outcome validity,10,1st,0.7,R7
+val_outcome,Outcome validity,10,1st,0.333333333333333,R8
+val_outcome,Outcome validity,10,1st,0.7,R9
+val_outcome,Outcome validity,10,1st,0.4,R10
+val_outcome,Outcome validity,10,1st,0.5,R11
+val_outcome,Outcome validity,10,1st,0.5,R12
+val_outcome,Outcome validity,10,1st,0.6,R13
+val_outcome,Outcome validity,10,2nd,0,R1
+val_outcome,Outcome validity,10,2nd,0.333333333333333,R2
+val_outcome,Outcome validity,10,2nd,0,R3
+val_outcome,Outcome validity,10,2nd,0.666666666666667,R4
+val_outcome,Outcome validity,10,2nd,0.333333333333333,R5
+val_outcome,Outcome validity,10,2nd,0.666666666666667,R6
+val_outcome,Outcome validity,10,2nd,0.666666666666667,R7
+val_outcome,Outcome validity,10,2nd,1,R8
+val_outcome,Outcome validity,10,2nd,0.666666666666667,R9
+val_outcome,Outcome validity,10,2nd,0.333333333333333,R10
+val_outcome,Outcome validity,10,2nd,0.333333333333333,R11
+val_outcome,Outcome validity,10,2nd,0.333333333333333,R12
+val_outcome,Outcome validity,10,2nd,0.666666666666667,R13
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R1
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R2
+out_bias_acc,Accounting for outcome measurement bias,11,1st,0.7,R3
+out_bias_acc,Accounting for outcome measurement bias,11,1st,0.9,R4
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R5
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R6
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R7
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R8
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R9
+out_bias_acc,Accounting for outcome measurement bias,11,1st,0.9,R10
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R11
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R12
+out_bias_acc,Accounting for outcome measurement bias,11,1st,1,R13
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R1
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R2
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R3
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R4
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R5
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R6
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R7
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R8
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R9
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R10
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R11
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R12
+out_bias_acc,Accounting for outcome measurement bias,11,2nd,1,R13
+miss_outcome,Presence of missing outcome,12,1st,0.6,R1
+miss_outcome,Presence of missing outcome,12,1st,0.5,R2
+miss_outcome,Presence of missing outcome,12,1st,0.8,R3
+miss_outcome,Presence of missing outcome,12,1st,0.2,R4
+miss_outcome,Presence of missing outcome,12,1st,0.1,R5
+miss_outcome,Presence of missing outcome,12,1st,0.5,R6
+miss_outcome,Presence of missing outcome,12,1st,0.7,R7
+miss_outcome,Presence of missing outcome,12,1st,0.333333333333333,R8
+miss_outcome,Presence of missing outcome,12,1st,0.5,R9
+miss_outcome,Presence of missing outcome,12,1st,0.8,R10
+miss_outcome,Presence of missing outcome,12,1st,0.6,R11
+miss_outcome,Presence of missing outcome,12,1st,0.5,R12
+miss_outcome,Presence of missing outcome,12,1st,0.7,R13
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R1
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R2
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R3
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R4
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R5
+miss_outcome,Presence of missing outcome,12,2nd,1,R6
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R7
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R8
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R9
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R10
+miss_outcome,Presence of missing outcome,12,2nd,0.666666666666667,R11
+miss_outcome,Presence of missing outcome,12,2nd,0.333333333333333,R12
+miss_outcome,Presence of missing outcome,12,2nd,0.333333333333333,R13
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.5,R1
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.5,R2
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.7,R3
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.5,R4
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.4,R5
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.5,R6
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.7,R7
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.444444444444444,R8
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.5,R9
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.8,R10
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.6,R11
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.5,R12
+hand_miss_outcom,Method for handling missing outcome,13,1st,0.7,R13
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R1
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R2
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R3
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.333333333333333,R4
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R5
+hand_miss_outcom,Method for handling missing outcome,13,2nd,1,R6
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R7
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R8
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R9
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R10
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.666666666666667,R11
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.333333333333333,R12
+hand_miss_outcom,Method for handling missing outcome,13,2nd,0.333333333333333,R13
+err_disc,Mentioning errors in discussion,15,1st,0.3,R1
+err_disc,Mentioning errors in discussion,15,1st,0.25,R2
+err_disc,Mentioning errors in discussion,15,1st,0.3,R3
+err_disc,Mentioning errors in discussion,15,1st,0.3,R4
+err_disc,Mentioning errors in discussion,15,1st,0.6,R5
+err_disc,Mentioning errors in discussion,15,1st,0.4,R6
+err_disc,Mentioning errors in discussion,15,1st,0.3,R7
+err_disc,Mentioning errors in discussion,15,1st,0.333333333333333,R8
+err_disc,Mentioning errors in discussion,15,1st,0.3,R9
+err_disc,Mentioning errors in discussion,15,1st,0.5,R10
+err_disc,Mentioning errors in discussion,15,1st,0.2,R11
+err_disc,Mentioning errors in discussion,15,1st,0.3,R12
+err_disc,Mentioning errors in discussion,15,1st,0.4,R13
+err_disc,Mentioning errors in discussion,15,2nd,0,R1
+err_disc,Mentioning errors in discussion,15,2nd,0,R2
+err_disc,Mentioning errors in discussion,15,2nd,0,R3
+err_disc,Mentioning errors in discussion,15,2nd,0.333333333333333,R4
+err_disc,Mentioning errors in discussion,15,2nd,0.333333333333333,R5
+err_disc,Mentioning errors in discussion,15,2nd,0,R6
+err_disc,Mentioning errors in discussion,15,2nd,0.333333333333333,R7
+err_disc,Mentioning errors in discussion,15,2nd,0.333333333333333,R8
+err_disc,Mentioning errors in discussion,15,2nd,0,R9
+err_disc,Mentioning errors in discussion,15,2nd,0.333333333333333,R10
+err_disc,Mentioning errors in discussion,15,2nd,0,R11
+err_disc,Mentioning errors in discussion,15,2nd,0,R12
+err_disc,Mentioning errors in discussion,15,2nd,0,R13
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.6,R1
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.5,R2
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.2,R3
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.8,R4
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.6,R5
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.4,R6
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.4,R7
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.75,R8
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.6,R9
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.6,R10
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.6,R11
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.8,R12
+inv_sel_base,Presence of baseline selection bias from investigator,18,1st,0.4,R13
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R1
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R2
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.333333333333333,R3
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.333333333333333,R4
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R5
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R6
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R7
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.333333333333333,R8
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.333333333333333,R9
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R10
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,1,R11
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R12
+inv_sel_base,Presence of baseline selection bias from investigator,18,2nd,0.666666666666667,R13
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.6,R1
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.5,R2
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.6,R3
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.8,R4
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.8,R5
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.8,R6
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.6,R7
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.5,R8
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.8,R9
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.4,R10
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.6,R11
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.8,R12
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,1st,0.8,R13
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.333333333333333,R1
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.333333333333333,R2
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R3
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0,R4
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R5
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R6
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R7
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R8
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R9
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R10
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R11
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R12
+comp_dis,Comparing exposure and outcome distributions between included and non-included population in analysis,19,2nd,0.666666666666667,R13
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.6,R1
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.5,R2
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.6,R3
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.4,R4
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.4,R5
+ltfu_bias,Presence of loss to follow up bias,20,1st,0,R6
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.4,R7
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.75,R8
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.6,R9
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.4,R10
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.8,R11
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.6,R12
+ltfu_bias,Presence of loss to follow up bias,20,1st,0.6,R13
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R1
+ltfu_bias,Presence of loss to follow up bias,20,2nd,0.666666666666667,R2
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R3
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R4
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R5
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R6
+ltfu_bias,Presence of loss to follow up bias,20,2nd,0.666666666666667,R7
+ltfu_bias,Presence of loss to follow up bias,20,2nd,0.666666666666667,R8
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R9
+ltfu_bias,Presence of loss to follow up bias,20,2nd,0.666666666666667,R10
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R11
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R12
+ltfu_bias,Presence of loss to follow up bias,20,2nd,1,R13
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.8,R1
+ltfu_acc,Accounting for loss to follow up bias,21,1st,1,R2
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.6,R3
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.4,R4
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.6,R5
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.2,R6
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.6,R7
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.5,R8
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.6,R9
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.4,R10
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.8,R11
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.4,R12
+ltfu_acc,Accounting for loss to follow up bias,21,1st,0.6,R13
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R1
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,0.666666666666667,R2
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R3
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R4
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R5
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R6
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,0.666666666666667,R7
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,0.666666666666667,R8
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R9
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,0.666666666666667,R10
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R11
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R12
+ltfu_acc,Accounting for loss to follow up bias,21,2nd,1,R13
+exposure_type,Exposure type,22,1st,1,R1
+exposure_type,Exposure type,22,1st,0.75,R2
+exposure_type,Exposure type,22,1st,1,R3
+exposure_type,Exposure type,22,1st,1,R4
+exposure_type,Exposure type,22,1st,1,R5
+exposure_type,Exposure type,22,1st,1,R6
+exposure_type,Exposure type,22,1st,0.6,R7
+exposure_type,Exposure type,22,1st,1,R8
+exposure_type,Exposure type,22,1st,1,R9
+exposure_type,Exposure type,22,1st,1,R10
+exposure_type,Exposure type,22,1st,1,R11
+exposure_type,Exposure type,22,1st,1,R12
+exposure_type,Exposure type,22,1st,1,R13
+exposure_type,Exposure type,22,2nd,1,R1
+exposure_type,Exposure type,22,2nd,0.666666666666667,R2
+exposure_type,Exposure type,22,2nd,1,R3
+exposure_type,Exposure type,22,2nd,0.666666666666667,R4
+exposure_type,Exposure type,22,2nd,1,R5
+exposure_type,Exposure type,22,2nd,0.333333333333333,R6
+exposure_type,Exposure type,22,2nd,0.666666666666667,R7
+exposure_type,Exposure type,22,2nd,1,R8
+exposure_type,Exposure type,22,2nd,1,R9
+exposure_type,Exposure type,22,2nd,0.666666666666667,R10
+exposure_type,Exposure type,22,2nd,1,R11
+exposure_type,Exposure type,22,2nd,1,R12
+exposure_type,Exposure type,22,2nd,1,R13
+val_exposure,Exposure validity,23,1st,0,R1
+val_exposure,Exposure validity,23,1st,0,R2
+val_exposure,Exposure validity,23,1st,0,R3
+val_exposure,Exposure validity,23,1st,0,R4
+val_exposure,Exposure validity,23,1st,0,R5
+val_exposure,Exposure validity,23,1st,0.2,R6
+val_exposure,Exposure validity,23,1st,0.2,R7
+val_exposure,Exposure validity,23,1st,0,R8
+val_exposure,Exposure validity,23,1st,0.2,R9
+val_exposure,Exposure validity,23,1st,0,R10
+val_exposure,Exposure validity,23,1st,0.2,R11
+val_exposure,Exposure validity,23,1st,0,R12
+val_exposure,Exposure validity,23,1st,0,R13
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R1
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R2
+val_exposure,Exposure validity,23,2nd,1,R3
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R4
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R5
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R6
+val_exposure,Exposure validity,23,2nd,0.666666666666667,R7
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R8
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R9
+val_exposure,Exposure validity,23,2nd,1,R10
+val_exposure,Exposure validity,23,2nd,0.666666666666667,R11
+val_exposure,Exposure validity,23,2nd,0.666666666666667,R12
+val_exposure,Exposure validity,23,2nd,0.333333333333333,R13
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.4,R1
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,1,R2
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,1,R3
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.8,R4
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,1,R5
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,1,R6
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.6,R7
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.5,R8
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.8,R9
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.2,R10
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.6,R11
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,1,R12
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,1st,0.8,R13
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0.666666666666667,R1
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0.666666666666667,R2
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0.666666666666667,R3
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0.333333333333333,R4
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0.666666666666667,R5
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,1,R6
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,1,R7
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0,R8
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,1,R9
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0.666666666666667,R10
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0,R11
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,1,R12
+diff_or_nondiff_exp,Exposure measurement differential with respect to outcome,24,2nd,0.333333333333333,R13
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R1
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R2
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,0.6,R3
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,0.8,R4
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R5
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R6
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R7
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R8
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R9
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R10
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R11
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R12
+exp_bias_acc,Accounting for exposure measurement bias,25,1st,1,R13
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R1
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,0.666666666666667,R2
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R3
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R4
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R5
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R6
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R7
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R8
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R9
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R10
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R11
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R12
+exp_bias_acc,Accounting for exposure measurement bias,25,2nd,1,R13
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0,R1
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.75,R2
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.8,R3
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.6,R4
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.6,R5
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.8,R6
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0,R7
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.75,R8
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.8,R9
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0,R10
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.2,R11
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.6,R12
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,1st,0.8,R13
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.333333333333333,R1
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.333333333333333,R2
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R3
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R4
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R5
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R6
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R7
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.333333333333333,R8
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R9
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R10
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.333333333333333,R11
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,0.666666666666667,R12
+diff_or_nondiff_out,Outcome measurement differential with respect to exposure,26,2nd,1,R13
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.4,R1
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.75,R2
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.8,R3
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.8,R4
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.6,R5
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.8,R6
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.2,R7
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,1,R8
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.6,R9
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.6,R10
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.8,R11
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,0.4,R12
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,1st,1,R13
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,1,R1
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,0.666666666666667,R2
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,0.666666666666667,R3
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,0.666666666666667,R4
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,0.666666666666667,R5
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,0.333333333333333,R6
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,0.666666666666667,R7
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,0.666666666666667,R8
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,1,R9
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,1,R10
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,1,R11
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,1,R12
+dep_or_indep_misc,Presence of dependent or independent exposure and outcome measurement biases,27,2nd,1,R13
+conf_var_det,Determining confounding variables,29,1st,0.6,R1
+conf_var_det,Determining confounding variables,29,1st,0.75,R2
+conf_var_det,Determining confounding variables,29,1st,0.4,R3
+conf_var_det,Determining confounding variables,29,1st,0.8,R4
+conf_var_det,Determining confounding variables,29,1st,0.8,R5
+conf_var_det,Determining confounding variables,29,1st,0.2,R6
+conf_var_det,Determining confounding variables,29,1st,1,R7
+conf_var_det,Determining confounding variables,29,1st,1,R8
+conf_var_det,Determining confounding variables,29,1st,1,R9
+conf_var_det,Determining confounding variables,29,1st,0.4,R10
+conf_var_det,Determining confounding variables,29,1st,0.8,R11
+conf_var_det,Determining confounding variables,29,1st,0.8,R12
+conf_var_det,Determining confounding variables,29,1st,0,R13
+conf_var_det,Determining confounding variables,29,2nd,0.666666666666667,R1
+conf_var_det,Determining confounding variables,29,2nd,0.333333333333333,R2
+conf_var_det,Determining confounding variables,29,2nd,0.666666666666667,R3
+conf_var_det,Determining confounding variables,29,2nd,1,R4
+conf_var_det,Determining confounding variables,29,2nd,0.666666666666667,R5
+conf_var_det,Determining confounding variables,29,2nd,1,R6
+conf_var_det,Determining confounding variables,29,2nd,0.666666666666667,R7
+conf_var_det,Determining confounding variables,29,2nd,0.666666666666667,R8
+conf_var_det,Determining confounding variables,29,2nd,0.666666666666667,R9
+conf_var_det,Determining confounding variables,29,2nd,1,R10
+conf_var_det,Determining confounding variables,29,2nd,1,R11
+conf_var_det,Determining confounding variables,29,2nd,1,R12
+conf_var_det,Determining confounding variables,29,2nd,0.666666666666667,R13
+base_conf_meth,Method of handling baseline confounding,30,1st,0.8,R1
+base_conf_meth,Method of handling baseline confounding,30,1st,0.5,R2
+base_conf_meth,Method of handling baseline confounding,30,1st,0.8,R3
+base_conf_meth,Method of handling baseline confounding,30,1st,0.8,R4
+base_conf_meth,Method of handling baseline confounding,30,1st,0.6,R5
+base_conf_meth,Method of handling baseline confounding,30,1st,0.6,R6
+base_conf_meth,Method of handling baseline confounding,30,1st,0.4,R7
+base_conf_meth,Method of handling baseline confounding,30,1st,1,R8
+base_conf_meth,Method of handling baseline confounding,30,1st,1,R9
+base_conf_meth,Method of handling baseline confounding,30,1st,0.4,R10
+base_conf_meth,Method of handling baseline confounding,30,1st,0.8,R11
+base_conf_meth,Method of handling baseline confounding,30,1st,0.2,R12
+base_conf_meth,Method of handling baseline confounding,30,1st,0,R13
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R1
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R2
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R3
+base_conf_meth,Method of handling baseline confounding,30,2nd,1,R4
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R5
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R6
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R7
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R8
+base_conf_meth,Method of handling baseline confounding,30,2nd,1,R9
+base_conf_meth,Method of handling baseline confounding,30,2nd,1,R10
+base_conf_meth,Method of handling baseline confounding,30,2nd,1,R11
+base_conf_meth,Method of handling baseline confounding,30,2nd,1,R12
+base_conf_meth,Method of handling baseline confounding,30,2nd,0.666666666666667,R13
+base_conf,Presence of baseline confounding,31,1st,0.4,R1
+base_conf,Presence of baseline confounding,31,1st,0.75,R2
+base_conf,Presence of baseline confounding,31,1st,0,R3
+base_conf,Presence of baseline confounding,31,1st,0,R4
+base_conf,Presence of baseline confounding,31,1st,0.4,R5
+base_conf,Presence of baseline confounding,31,1st,0,R6
+base_conf,Presence of baseline confounding,31,1st,0.8,R7
+base_conf,Presence of baseline confounding,31,1st,0,R8
+base_conf,Presence of baseline confounding,31,1st,1,R9
+base_conf,Presence of baseline confounding,31,1st,0,R10
+base_conf,Presence of baseline confounding,31,1st,0.2,R11
+base_conf,Presence of baseline confounding,31,1st,0.4,R12
+base_conf,Presence of baseline confounding,31,1st,0,R13
+base_conf,Presence of baseline confounding,31,2nd,0.666666666666667,R1
+base_conf,Presence of baseline confounding,31,2nd,0.666666666666667,R2
+base_conf,Presence of baseline confounding,31,2nd,0.666666666666667,R3
+base_conf,Presence of baseline confounding,31,2nd,0.333333333333333,R4
+base_conf,Presence of baseline confounding,31,2nd,1,R5
+base_conf,Presence of baseline confounding,31,2nd,0.333333333333333,R6
+base_conf,Presence of baseline confounding,31,2nd,1,R7
+base_conf,Presence of baseline confounding,31,2nd,0.666666666666667,R8
+base_conf,Presence of baseline confounding,31,2nd,0.666666666666667,R9
+base_conf,Presence of baseline confounding,31,2nd,0,R10
+base_conf,Presence of baseline confounding,31,2nd,0,R11
+base_conf,Presence of baseline confounding,31,2nd,1,R12
+base_conf,Presence of baseline confounding,31,2nd,1,R13
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.4,R1
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.25,R2
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.8,R3
+tv_conf_meth,Method of handling time varying confounding,32,1st,1,R4
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.8,R5
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.8,R6
+tv_conf_meth,Method of handling time varying confounding,32,1st,1,R7
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.25,R8
+tv_conf_meth,Method of handling time varying confounding,32,1st,1,R9
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.8,R10
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.6,R11
+tv_conf_meth,Method of handling time varying confounding,32,1st,1,R12
+tv_conf_meth,Method of handling time varying confounding,32,1st,0.8,R13
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0.666666666666667,R1
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0.666666666666667,R2
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0.666666666666667,R3
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0.666666666666667,R4
+tv_conf_meth,Method of handling time varying confounding,32,2nd,1,R5
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0.666666666666667,R6
+tv_conf_meth,Method of handling time varying confounding,32,2nd,1,R7
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0,R8
+tv_conf_meth,Method of handling time varying confounding,32,2nd,1,R9
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0.333333333333333,R10
+tv_conf_meth,Method of handling time varying confounding,32,2nd,1,R11
+tv_conf_meth,Method of handling time varying confounding,32,2nd,1,R12
+tv_conf_meth,Method of handling time varying confounding,32,2nd,0.666666666666667,R13
+tv_conf,Presence of time varying confounding,33,1st,0.6,R1
+tv_conf,Presence of time varying confounding,33,1st,0.5,R2
+tv_conf,Presence of time varying confounding,33,1st,0.6,R3
+tv_conf,Presence of time varying confounding,33,1st,1,R4
+tv_conf,Presence of time varying confounding,33,1st,0.8,R5
+tv_conf,Presence of time varying confounding,33,1st,0.8,R6
+tv_conf,Presence of time varying confounding,33,1st,1,R7
+tv_conf,Presence of time varying confounding,33,1st,0.25,R8
+tv_conf,Presence of time varying confounding,33,1st,1,R9
+tv_conf,Presence of time varying confounding,33,1st,0.8,R10
+tv_conf,Presence of time varying confounding,33,1st,0.8,R11
+tv_conf,Presence of time varying confounding,33,1st,1,R12
+tv_conf,Presence of time varying confounding,33,1st,1,R13
+tv_conf,Presence of time varying confounding,33,2nd,1,R1
+tv_conf,Presence of time varying confounding,33,2nd,0.333333333333333,R2
+tv_conf,Presence of time varying confounding,33,2nd,0.666666666666667,R3
+tv_conf,Presence of time varying confounding,33,2nd,1,R4
+tv_conf,Presence of time varying confounding,33,2nd,1,R5
+tv_conf,Presence of time varying confounding,33,2nd,0.666666666666667,R6
+tv_conf,Presence of time varying confounding,33,2nd,1,R7
+tv_conf,Presence of time varying confounding,33,2nd,0.666666666666667,R8
+tv_conf,Presence of time varying confounding,33,2nd,1,R9
+tv_conf,Presence of time varying confounding,33,2nd,1,R10
+tv_conf,Presence of time varying confounding,33,2nd,1,R11
+tv_conf,Presence of time varying confounding,33,2nd,1,R12
+tv_conf,Presence of time varying confounding,33,2nd,1,R13
+miss_exposure,Presence of missing exposure,34,1st,0.4,R1
+miss_exposure,Presence of missing exposure,34,1st,0.5,R2
+miss_exposure,Presence of missing exposure,34,1st,0.4,R3
+miss_exposure,Presence of missing exposure,34,1st,0.4,R4
+miss_exposure,Presence of missing exposure,34,1st,0.4,R5
+miss_exposure,Presence of missing exposure,34,1st,0.4,R6
+miss_exposure,Presence of missing exposure,34,1st,0.4,R7
+miss_exposure,Presence of missing exposure,34,1st,0.5,R8
+miss_exposure,Presence of missing exposure,34,1st,0.4,R9
+miss_exposure,Presence of missing exposure,34,1st,0.6,R10
+miss_exposure,Presence of missing exposure,34,1st,0.4,R11
+miss_exposure,Presence of missing exposure,34,1st,0.4,R12
+miss_exposure,Presence of missing exposure,34,1st,0,R13
+miss_exposure,Presence of missing exposure,34,2nd,0,R1
+miss_exposure,Presence of missing exposure,34,2nd,0.333333333333333,R2
+miss_exposure,Presence of missing exposure,34,2nd,0.333333333333333,R3
+miss_exposure,Presence of missing exposure,34,2nd,0,R4
+miss_exposure,Presence of missing exposure,34,2nd,0,R5
+miss_exposure,Presence of missing exposure,34,2nd,0.666666666666667,R6
+miss_exposure,Presence of missing exposure,34,2nd,0.666666666666667,R7
+miss_exposure,Presence of missing exposure,34,2nd,0,R8
+miss_exposure,Presence of missing exposure,34,2nd,0.666666666666667,R9
+miss_exposure,Presence of missing exposure,34,2nd,0.333333333333333,R10
+miss_exposure,Presence of missing exposure,34,2nd,0,R11
+miss_exposure,Presence of missing exposure,34,2nd,0.666666666666667,R12
+miss_exposure,Presence of missing exposure,34,2nd,0.333333333333333,R13
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R1
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.25,R2
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R3
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R4
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R5
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R6
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R7
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.25,R8
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R9
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.6,R10
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R11
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.4,R12
+hand_miss_exposure,Method for handling missing exposure,35,1st,0.2,R13
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0,R1
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.333333333333333,R2
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.333333333333333,R3
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0,R4
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0,R5
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.666666666666667,R6
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.666666666666667,R7
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0,R8
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.666666666666667,R9
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.333333333333333,R10
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0,R11
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.666666666666667,R12
+hand_miss_exposure,Method for handling missing exposure,35,2nd,0.333333333333333,R13

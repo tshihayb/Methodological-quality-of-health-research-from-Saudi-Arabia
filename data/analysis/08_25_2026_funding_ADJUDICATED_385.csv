@@ -1,0 +1,386 @@
+PMID,funding_3level,funding_level_firstpass,three_level_basis,confidence,basis,declared_no_funding,self_funded,oa_agreement_only,statement_source,apc_only,funding_3level_machine,funding_6level_machine,adjudicated,changed
+STUDY-0400,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-1007,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0995,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0455,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0405,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0531,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0106,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0527,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0436,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0427,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0837,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0445,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0172,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0177,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0393,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0843,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0774,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0880,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0914,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,financial_support,0,not_stated,needs_review,0,0
+STUDY-0250,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0104,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0537,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0658,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,international,0,0
+STUDY-0737,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0220,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0994,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0499,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0350,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0354,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0839,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0750,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0259,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0707,non_funded,declared_none,from international,low,funder(s) named in the paper's own funding statement; statement ALSO carries a no-funding phrase -- check,1,0,0,acknowledgements,0,funded,international,1,1
+STUDY-0431,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0821,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-1022,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0145,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0385,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0397,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0532,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,1,0
+STUDY-0284,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0663,funded,both,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,1,1
+STUDY-0970,funded,international,from international,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),1,0,0,funding,0,funded,international,0,0
+STUDY-0304,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0487,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0362,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,international,0,0
+STUDY-0123,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0731,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0322,non_funded,declared_none,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,1,1
+STUDY-0159,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0419,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0333,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0046,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0355,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0845,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0555,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0945,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,1,0
+STUDY-0365,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0023,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0817,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0170,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0442,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0007,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0026,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0048,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0326,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0563,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0144,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0045,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,1,1
+STUDY-0041,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0418,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0234,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0275,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0788,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0521,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0346,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,1,funded,local,1,1
+STUDY-0192,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0049,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0012,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0171,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0141,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0671,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0924,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0182,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0597,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0149,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0256,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0830,funded,local,from local,medium,no funding section; funder named in the acknowledgement,0,0,0,,0,funded,local,0,0
+STUDY-0157,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0972,funded,international,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,1,funding,0,not_stated,needs_review,1,1
+STUDY-0766,funded,local,from local,medium,no funding section; funder named in the acknowledgement,0,0,0,,0,funded,local,0,0
+STUDY-0552,funded,local,from local,medium,no funding section; funder named in the acknowledgement,0,0,0,,0,funded,local,0,0
+STUDY-0257,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0819,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0611,non_funded,declared_none,from international,low,funder(s) named in the paper's own funding statement; statement ALSO carries a no-funding phrase -- check,1,0,0,funding,0,funded,international,1,1
+STUDY-0942,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,1,0
+STUDY-0492,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,1,0,funding,0,non_funded,declared_none,0,0
+STUDY-0739,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,1,funding,0,funded,international,0,0
+STUDY-0306,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0685,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0112,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0613,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0522,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,1,funded,local,1,1
+STUDY-0792,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0248,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0189,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0701,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,1,1
+STUDY-0835,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0040,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0402,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,1,0
+STUDY-0239,funded,both,from both,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,both,0,0
+STUDY-0977,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0429,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0589,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0721,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0933,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0330,funded,international,from international,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,international,0,0
+STUDY-0922,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0600,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0119,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0251,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0932,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0749,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0517,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0210,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0923,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,financial_support,0,funded,local,0,0
+STUDY-0214,non_funded,declared_none,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,1,1
+STUDY-0565,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0899,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0094,funded,international,from international,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,international,0,0
+STUDY-0809,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0793,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0627,not_stated,not_stated,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,funding,0,not_stated,needs_review,1,0
+STUDY-0126,funded,international,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,1,1
+STUDY-0387,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0700,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0805,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0401,funded,international,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,1,1
+STUDY-0780,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0184,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0205,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0740,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0930,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0822,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-1026,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,1,funded,local,1,1
+STUDY-0649,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0258,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0446,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,1,funded,local,1,1
+STUDY-0133,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0542,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0337,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0702,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0541,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0840,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0447,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0634,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0037,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-1021,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0268,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,1,funded,local,1,1
+STUDY-0449,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0943,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0760,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0549,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0161,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0064,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0952,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0471,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0135,not_stated,not_stated,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,1,1
+STUDY-0963,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0892,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0494,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0577,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0598,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0093,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0006,non_funded,declared_none,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,1,1
+STUDY-0386,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0698,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0603,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-1001,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0423,not_stated,not_stated,from international,high,funder(s) named in the paper's own funding statement,0,0,1,acknowledgements,1,funded,international,1,1
+STUDY-0086,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0207,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0810,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0109,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,1,0
+STUDY-1016,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0473,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0295,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0516,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0803,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0307,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,source_of_support,0,funded,international,0,0
+STUDY-0560,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0132,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0852,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0231,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0595,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0129,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0834,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0865,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0339,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0773,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,source_of_support,0,non_funded,declared_none,1,0
+STUDY-0744,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0475,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0853,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,international,0,0
+STUDY-0403,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0628,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0653,funded,international,from international,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,international,0,0
+STUDY-0005,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0297,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0162,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,financial_support,0,funded,local,0,0
+STUDY-0728,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0984,funded,local,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,1,1
+STUDY-0590,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0440,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0450,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0416,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0557,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0373,funded,both,from both,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,both,0,0
+STUDY-0352,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,1,0,funding,0,non_funded,declared_none,0,0
+STUDY-0382,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0468,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0715,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0665,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0988,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0252,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0986,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0781,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0360,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0199,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-1003,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0062,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0525,funded,local,from local,medium,no funding section; funder named in the acknowledgement,0,0,0,,0,funded,local,0,0
+STUDY-0351,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0630,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0477,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0335,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0096,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0032,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0778,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0878,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0864,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0902,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0659,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,international,0,0
+STUDY-0345,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0472,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0331,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0901,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0476,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-1010,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-1013,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0137,funded,local,from local,medium,no funding section; funder named in the acknowledgement,0,0,0,,0,funded,local,0,0
+STUDY-0194,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0736,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0312,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0808,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,1,0
+STUDY-0647,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,financial_support,0,funded,international,0,0
+STUDY-0978,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0188,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0940,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0936,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0605,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0889,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0084,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-1024,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0415,non_funded,declared_none,from international,high,funder(s) named in the paper's own funding statement,1,0,0,funding,0,funded,international,1,1
+STUDY-0426,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0824,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0974,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0422,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0679,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0115,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0764,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0931,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0677,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0320,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0110,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0280,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0434,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0237,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0825,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0329,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0101,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0561,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0130,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0083,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0633,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0876,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0669,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0504,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0074,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0055,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0722,non_funded,declared_none,from declared_none,medium,no-funding declaration outside a funding heading,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0947,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0245,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,1,1
+STUDY-0551,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0379,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0887,funded,local,from local,high,funder(s) named in the paper's own funding statement,1,0,0,funding,0,funded,local,0,0
+STUDY-0695,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0762,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0823,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0536,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0910,non_funded,declared_none,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0650,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0273,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0961,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0712,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,1,funded,local,1,1
+STUDY-0609,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0976,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,source_of_support,0,non_funded,declared_none,0,0
+STUDY-0282,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0867,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0794,funded,both,from both,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,both,0,0
+STUDY-0031,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,1,funded,local,1,1
+STUDY-0829,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0875,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0443,funded,both,from both,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,both,0,0
+STUDY-0269,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0241,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0336,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,1,1
+STUDY-0812,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0567,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0232,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0125,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0648,funded,local,from declared_none,low,funding statement explicitly declares no funding; a funder name appears elsewhere in the paper -- check,1,0,0,funding,0,non_funded,declared_none,1,1
+STUDY-0656,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0185,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0991,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0065,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0047,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0457,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0186,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0713,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0710,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0520,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0156,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0944,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0305,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0676,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,1,funded,local,1,1
+STUDY-0927,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0906,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0883,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0501,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0868,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0183,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0053,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0981,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0102,funded,local,from local,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,funding,0,funded,local,0,0
+STUDY-0596,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0831,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0856,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0519,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0017,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0621,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0905,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0143,not_stated,needs_review,from needs_review: statement present but states no research funding,low,statement present but no funder resolved,0,0,0,sentence,0,not_stated,needs_review,0,0
+STUDY-0644,funded,international,from international,medium,funder(s) named only outside a funding statement (acknowledgement/sentence),0,0,0,role_of_funding,0,funded,international,0,0
+STUDY-0441,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0030,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0807,not_stated,not_stated,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,1,1
+STUDY-0371,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0911,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0430,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0968,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,international,0,0
+STUDY-0919,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0460,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0617,funded,international,from international,high,funder(s) named in the paper's own funding statement,1,0,0,funding,0,funded,international,0,0
+STUDY-0847,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0674,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0299,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0271,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,international,0,0
+STUDY-0580,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0425,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0982,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0783,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,funding,0,funded,local,0,0
+STUDY-0466,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0228,funded,international,from international,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,international,0,0
+STUDY-0708,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0380,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0
+STUDY-0893,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,sentence,0,non_funded,declared_none,0,0
+STUDY-0196,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0437,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0566,not_stated,not_stated,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,1,funded,local,1,1
+STUDY-0928,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,funding,0,non_funded,declared_none,0,0
+STUDY-0099,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,acknowledgements,0,funded,local,0,0
+STUDY-0202,non_funded,declared_none,from declared_none,high,funding statement explicitly declares no funding,1,0,0,financial_support,0,non_funded,declared_none,0,0
+STUDY-0019,funded,local,from local,high,funder(s) named in the paper's own funding statement,0,0,0,sentence,0,funded,local,0,0
+STUDY-0100,not_stated,not_stated,from not_stated,high,no funding statement anywhere in the full text,0,0,0,,0,not_stated,not_stated,0,0

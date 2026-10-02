@@ -1,0 +1,4 @@
+quantity,label,observed,e1_to_fall_below_70,e1_to_fall_below_50,e1_to_fall_below_25
+pct_any_flaw,At least one validity flaw,1,0.791304347826087,0.877777777777778,0.950327868852459
+pct_ge3_domain,Flawed in three or more domains,0.738709677419355,0.042857142857143,0.246428571428571,0.504545454545455
+mean_validity,Mean validity index,0.471136663515696,0.540704980987541,0.817574975571328,NA

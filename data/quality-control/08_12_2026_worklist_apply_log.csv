@@ -1,0 +1,52 @@
+PMID,variable,before,after,op
+STUDY-0805,causal_acc_sampl,,Yes,update
+STUDY-0379,causal_acc_sampl,,Yes,update
+STUDY-0805,causal_sample_ach,,Yes,update
+STUDY-0379,causal_sample_ach,,Yes,update
+STUDY-0273,causal_comp_dis,,No,update
+STUDY-0499,causal_ltfu_acc,,No,update
+STUDY-0431,causal_ltfu_acc,,No,update
+STUDY-0429,causal_ltfu_acc,,Yes,update
+STUDY-0923,causal_ltfu_acc,,No,update
+STUDY-0141,causal_hand_miss_exposure,,No,update
+STUDY-0589,causal_hand_miss_exposure,,No,update
+STUDY-0330,causal_hand_miss_exposure,,No,update
+STUDY-0932,causal_hand_miss_exposure,,No,update
+STUDY-0740,causal_hand_miss_exposure,,No,update
+STUDY-0295,causal_hand_miss_exposure,,No,update
+STUDY-0005,causal_hand_miss_exposure,,No,update
+STUDY-0665,causal_hand_miss_exposure,,No,update
+STUDY-1013,causal_hand_miss_exposure,,No,update
+STUDY-0237,causal_hand_miss_exposure,,No,update
+STUDY-0379,causal_hand_miss_exposure,,"Yes, single imputation with mean value",update
+STUDY-0273,causal_hand_miss_exposure,,No,update
+STUDY-0305,causal_hand_miss_exposure,,No,update
+STUDY-0807,causal_hand_miss_exposure,,No,update
+STUDY-0100,causal_hand_miss_exposure,,No,update
+STUDY-0141,causal_hand_miss_outcom,,No,update
+STUDY-0597,causal_hand_miss_outcom,,No,update
+STUDY-0330,causal_hand_miss_outcom,,No,update
+STUDY-0932,causal_hand_miss_outcom,,No,update
+STUDY-0793,causal_hand_miss_outcom,,No,update
+STUDY-0549,causal_hand_miss_outcom,,No,update
+STUDY-0295,causal_hand_miss_outcom,,No,update
+STUDY-0595,causal_hand_miss_outcom,,No,update
+STUDY-0834,causal_hand_miss_outcom,,No,update
+STUDY-0005,causal_hand_miss_outcom,,No,update
+STUDY-0665,causal_hand_miss_outcom,,No,update
+STUDY-1013,causal_hand_miss_outcom,,No,update
+STUDY-0237,causal_hand_miss_outcom,,No,update
+STUDY-0669,causal_hand_miss_outcom,,No,update
+STUDY-0609,causal_hand_miss_outcom,,No,update
+STUDY-0976,causal_hand_miss_outcom,,No,update
+STUDY-0305,causal_hand_miss_outcom,,No,update
+STUDY-0644,causal_hand_miss_outcom,,No,update
+STUDY-0100,causal_hand_miss_outcom,,No,update
+STUDY-0345,descriptive_hand_miss_outcom,,No,update
+STUDY-0194,descriptive_hand_miss_outcom,,No,update
+STUDY-0597,causal_conf_var_det,No adjustment for baseline and time-varying confounding was done,Based on statistical criteria,update
+STUDY-0613,causal_conf_var_det,,Based on none of the above,update
+STUDY-0923,causal_conf_var_det,No adjustment for baseline and time-varying confounding was done,Based on none of the above,update
+STUDY-0736,causal_conf_var_det,No adjustment for baseline and time-varying confounding was done,Based on none of the above,update
+STUDY-0695,causal_conf_var_det,No adjustment for baseline and time-varying confounding was done,Based on none of the above,update
+STUDY-0919,causal_conf_var_det,No adjustment for baseline and time-varying confounding was done,Based on none of the above,update

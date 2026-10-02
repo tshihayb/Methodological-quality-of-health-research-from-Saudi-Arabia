@@ -1,0 +1,6 @@
+d<-read.csv('data/analysis/07_23_2026_ANALYSIS_DATASET_wide.csv',stringsAsFactors=FALSE,colClasses='character',check.names=FALSE)
+cat('--- causal_base_sel ---\n');        print(table(d[d$Study_Type=='Causal','causal_base_sel'],useNA='ifany'))
+cat('--- descriptive_base_sel ---\n');   print(table(d[d$Study_Type=='Descriptive','descriptive_base_sel'],useNA='ifany'))
+cat('--- descriptive_confl_task ---\n'); print(table(d[d$Study_Type=='Descriptive','descriptive_confl_task'],useNA='ifany'))
+cat('--- causal_comp_dis ---\n');         print(table(d[d$Study_Type=='Causal','causal_comp_dis'],useNA='ifany'))
+cat('--- causal_val_outcome ---\n');      print(table(d[d$Study_Type=='Causal','causal_val_outcome'],useNA='ifany'))

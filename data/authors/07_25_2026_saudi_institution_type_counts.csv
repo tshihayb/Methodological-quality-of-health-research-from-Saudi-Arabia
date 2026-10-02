@@ -1,0 +1,9 @@
+inst_type,author_appearances,pct_authors,distinct_institutions,papers_involving,n_categories
+University,1136,74.7,46,337,1
+Hospital / medical city,171,11.2,42,68,1
+Hospital & research centre,68,4.5,1,23,1
+Military & security-forces medical,67,4.4,13,26,1
+Ministry of Health,27,1.8,2,17,1
+Research centre / institute,24,1.6,2,11,1
+Company / industry,18,1.2,3,9,1
+Other sectors,9,0.6,7,8,5

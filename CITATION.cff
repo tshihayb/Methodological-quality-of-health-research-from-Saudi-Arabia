@@ -1,0 +1,84 @@
+cff-version: 1.2.0
+message: "If you use this dataset, code or appraisal instrument, please cite it as below."
+type: dataset
+title: "Methodological quality of health research from Saudi Arabia: data and code"
+version: "1.2.0"
+date-released: "2026-10-02"
+license: CC-BY-4.0
+doi: 10.5281/zenodo.23045997
+repository-code: "https://github.com/tshihayb/Methodological-quality-of-health-research-from-Saudi-Arabia"
+url: "https://github.com/tshihayb/Methodological-quality-of-health-research-from-Saudi-Arabia"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23045997
+    description: "Concept DOI for all versions; always resolves to the newest"
+  - type: url
+    value: "https://osf.io/gfcv3"
+    description: "Protocol and every version of the appraisal instrument, on the Open Science Framework"
+keywords:
+  - meta-research
+  - research quality
+  - risk of bias
+  - epidemiological methods
+  - research assessment
+  - bibliometrics
+  - Saudi Arabia
+  - ITQAN
+abstract: >-
+  De-identified data and analysis code for a cross-sectional meta-research study of
+  the methodological quality of health research from Saudi Arabia. A random sample of
+  385 primary human health studies published in 2022 with at least one Saudi-affiliated
+  author was drawn from the 5,558 records that a PubMed search for such studies
+  returned. Each study was classified by its epidemiological task (descriptive,
+  predictive or causal) and appraised with a task-aligned instrument (ITQAN) covering
+  random error, selection bias, measurement bias, confounding and missing data. Two of
+  thirteen calibrated epidemiologists appraised each study independently, and two
+  members of the study team adjudicated their disagreements.
+authors:
+  - family-names: Alshihayb
+    given-names: Talal S.
+    affiliation: King Saud bin Abdulaziz University for Health Sciences
+  - family-names: Aburas
+    given-names: Alhanoof
+    affiliation: Princess Nourah bint Abdulrahman University
+  - family-names: Alattas
+    given-names: Maha
+    affiliation: King Abdulaziz University
+  - family-names: Aldakhil
+    given-names: Reham
+    affiliation: Imperial College London
+    orcid: "https://orcid.org/0000-0002-6975-3858"
+  - family-names: Aldalooj
+    given-names: Esraa
+    affiliation: Saudi Patient Safety Center
+  - family-names: Aldossri
+    given-names: Musfer
+    affiliation: King Saud University
+  - family-names: Alkharashi
+    given-names: Tala
+    affiliation: Saudi National Institute of Health
+  - family-names: Almeshal
+    given-names: Nouf
+    affiliation: King Saud University
+  - family-names: Alnasser
+    given-names: Lubna A.
+    affiliation: King Abdullah International Medical Research Center
+    orcid: "https://orcid.org/0009-0004-1442-5293"
+  - family-names: Alsugeir
+    given-names: Dana
+    affiliation: Imam Abdulrahman Bin Faisal University
+  - family-names: Asiri
+    given-names: Ali
+    affiliation: King Saud University
+  - family-names: Gazzaz
+    given-names: Arwa
+    affiliation: King Saud University
+  - family-names: Merdad
+    given-names: Roah
+    affiliation: King Abdulaziz University
+  - family-names: Samargandy
+    given-names: Saad
+    affiliation: King Abdulaziz University
+  - family-names: Albogami
+    given-names: Yasser
+    affiliation: King Saud University

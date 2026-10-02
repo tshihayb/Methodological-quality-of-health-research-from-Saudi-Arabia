@@ -1,0 +1,13 @@
+domain,task,baseline,rate_used,rate_source,e1_to_fall_below_70,e1_to_fall_below_50,e1_to_fall_below_25
+Random error,Causal,0.315789473684211,0,measured,0,0,0.225
+Random error,Descriptive,0.254545454545455,0,measured,0,0,0.0624999999999999
+Selection bias,Causal,0.799126637554585,0.286118980169972,measured,0.126111111111111,0.3825,0.693055555555556
+Selection bias,Descriptive,0.679012345679012,0.286118980169972,measured,0,0.258333333333333,0.629166666666667
+Measurement bias,Causal,1,0.0648078372268274,measured,0.7334375,0.840625,NA
+Measurement bias,Descriptive,0.987654320987654,0.0648078372268274,measured,0.47875,0.665,0.847916666666667
+Confounding bias,Causal,0.877729257641921,0.286118980169972,imputed (max),0.2035,0.4325,0.71375
+Missing data,Causal,0.22707423580786,0.286118980169972,imputed (max),0,0,0
+Missing data,Descriptive,0.135802469135802,0.286118980169972,imputed (max),0,0,0
+Mentioning errors,Causal,0,0,not applicable,0,0,0
+Mentioning errors,Descriptive,0,0,not applicable,0,0,0
+Conflating task,Descriptive,0.641975308641975,0.286118980169972,imputed (max),0,0.225,0.6125

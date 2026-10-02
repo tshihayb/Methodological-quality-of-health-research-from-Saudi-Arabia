@@ -1,0 +1,39 @@
+{
+    "title": "Methodological quality of health research from Saudi Arabia: data and code",
+    "upload_type": "dataset",
+    "version": "1.2.0",
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "language": "eng",
+    "description": "<p>De-identified data and analysis code for a cross-sectional meta-research study of the methodological quality of health research from Saudi Arabia. A random sample of 385 primary human health studies published in 2022 with at least one Saudi-affiliated author was drawn from the 5,558 records that a PubMed search for such studies returned. Each study was classified by its epidemiological task (descriptive, predictive or causal) and appraised with a task-aligned instrument (ITQAN) covering random error, selection bias, measurement bias, confounding and missing data. Two of thirteen calibrated epidemiologists appraised each study independently, and two members of the study team adjudicated their disagreements.</p><p>The release contains the analysis-layer data, de-identified (study identifiers withheld and rare categories merged under a minimum-cell-size rule), the scoring and analysis code, and a single command that rebuilds the published figures and tables. MANIFEST_WITHHELD.md lists every file held back from the release, with the reason for each. The protocol and all instrument versions are on the Open Science Framework: https://osf.io/gfcv3.</p><p>Code is licensed under MIT (LICENSE); data, documentation and figures under CC BY 4.0 (LICENSE-DATA). Please cite this record when using the data, code or instrument.</p>",
+    "creators": [
+        {"name": "Alshihayb, Talal S.", "affiliation": "King Saud bin Abdulaziz University for Health Sciences"},
+        {"name": "Aburas, Alhanoof", "affiliation": "Princess Nourah bint Abdulrahman University"},
+        {"name": "Alattas, Maha", "affiliation": "King Abdulaziz University"},
+        {"name": "Aldakhil, Reham", "affiliation": "Imperial College London", "orcid": "0000-0002-6975-3858"},
+        {"name": "Aldalooj, Esraa", "affiliation": "Saudi Patient Safety Center"},
+        {"name": "Aldossri, Musfer", "affiliation": "King Saud University"},
+        {"name": "Alkharashi, Tala", "affiliation": "Saudi National Institute of Health"},
+        {"name": "Almeshal, Nouf", "affiliation": "King Saud University"},
+        {"name": "Alnasser, Lubna A.", "affiliation": "King Abdullah International Medical Research Center", "orcid": "0009-0004-1442-5293"},
+        {"name": "Alsugeir, Dana", "affiliation": "Imam Abdulrahman Bin Faisal University"},
+        {"name": "Asiri, Ali", "affiliation": "King Saud University"},
+        {"name": "Gazzaz, Arwa", "affiliation": "King Saud University"},
+        {"name": "Merdad, Roah", "affiliation": "King Abdulaziz University"},
+        {"name": "Samargandy, Saad", "affiliation": "King Abdulaziz University"},
+        {"name": "Albogami, Yasser", "affiliation": "King Saud University"}
+    ],
+    "keywords": [
+        "meta-research",
+        "research quality",
+        "risk of bias",
+        "epidemiological methods",
+        "research assessment",
+        "bibliometrics",
+        "Saudi Arabia",
+        "ITQAN"
+    ],
+    "related_identifiers": [
+        {"identifier": "https://osf.io/gfcv3", "relation": "isDocumentedBy"}
+    ]
+}

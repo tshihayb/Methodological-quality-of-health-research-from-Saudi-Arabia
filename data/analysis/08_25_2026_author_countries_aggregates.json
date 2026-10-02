@@ -1,0 +1,14 @@
+{
+ "n_papers": 385,
+ "n_author_positions": 3508,
+ "n_dual_country": 306,
+ "region_papers": {
+  "Americas": 78,
+  "Asia": 117,
+  "Europe": 76,
+  "Gulf": 385,
+  "Oceania": 26,
+  "Other Arab": 106,
+  "Sub-Saharan Africa": 22
+ }
+}

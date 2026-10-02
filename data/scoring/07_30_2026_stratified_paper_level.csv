@@ -1,0 +1,311 @@
+PMID,Study_Type,n_applicable,n_rep_gaps,n_val_flags,error_weighted,transparency,validity,validity_weighted,domains_flagged,dom_gapped,ack_flagged,ack_named,acknowledgement,Saudi data used,Number of authors,% Saudi authors,Corresponding author,First author,Last author,Sector composition,Single vs multi-sector,JCR 2022 quartile,JCR Q1-2 vs Q3-4,Funding
+STUDY-0400,Causal,14,4,9,8,0.714285714285714,0.1,0.2,3,2,3,3,1,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q2,Q1-Q2,Funded
+STUDY-1007,Descriptive,7,2,3,2.5,0.714285714285714,0.4,0.5,2,2,2,1,0.5,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Not stated
+STUDY-0995,Causal,12,3,3,2.6666667,0.75,0.666666666666667,0.7037037,2,2,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0405,Causal,15,2,7,6.1666667,0.866666666666667,0.461538461538462,0.525641023076923,3,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0531,Descriptive,7,1,4,4,0.857142857142857,0.333333333333333,0.333333333333333,3,1,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0106,Descriptive,7,1,4,4,0.857142857142857,0.333333333333333,0.333333333333333,3,1,2,1,0.5,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0527,Causal,16,1,8,7,0.9375,0.466666666666667,0.533333333333333,3,0,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0436,Causal,15,4,7,6.1666667,0.733333333333333,0.363636363636364,0.439393936363636,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Not stated
+STUDY-0427,Causal,13,4,7,6.5,0.692307692307692,0.222222222222222,0.277777777777778,3,2,3,1,0.333333333333333,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0172,Causal,17,3,9,7.8333333,0.823529411764706,0.357142857142857,0.440476192857143,4,1,4,2,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0177,Descriptive,9,0,5,4.5,1,0.444444444444444,0.5,3,0,3,1,0.333333333333333,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0393,Descriptive,7,0,3,2.5,1,0.571428571428571,0.642857142857143,2,0,2,2,1,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0774,Causal,17,3,5,4,0.823529411764706,0.642857142857143,0.714285714285714,2,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0880,Causal,12,3,3,2.3333333,0.75,0.666666666666667,0.740740744444444,2,2,2,1,0.5,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Not stated
+STUDY-0914,Descriptive,5,0,2,2,1,0.6,0.6,2,0,1,1,1,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0104,Causal,17,0,6,5.6666667,1,0.647058823529412,0.666666664705882,3,0,3,1,0.333333333333333,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0537,Descriptive,5,0,1,1,1,0.8,0.8,1,0,1,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0658,Causal,18,3,7,6.6666667,0.833333333333333,0.533333333333333,0.555555553333333,4,1,4,1,0.25,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0737,Descriptive,5,0,2,2,1,0.6,0.6,2,0,1,0,0,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0220,Causal,14,4,4,4,0.714285714285714,0.6,0.6,2,2,2,1,0.5,No,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0994,Causal,15,2,4,3.1666667,0.866666666666667,0.692307692307692,0.756410253846154,2,2,2,2,1,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0499,Causal,18,1,7,6.5,0.944444444444444,0.588235294117647,0.617647058823529,4,0,4,1,0.25,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0350,Descriptive,9,1,5,4.5,0.888888888888889,0.375,0.4375,4,1,3,2,0.666666666666667,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0354,Descriptive,9,1,5,4.5,0.888888888888889,0.375,0.4375,3,1,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0839,Causal,11,2,4,4,0.818181818181818,0.555555555555556,0.555555555555556,2,2,2,1,0.5,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0750,Causal,14,4,5,5,0.714285714285714,0.5,0.5,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Declared none
+STUDY-0259,Causal,15,5,5,4.5,0.666666666666667,0.5,0.55,3,2,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0431,Causal,13,3,4,4,0.769230769230769,0.6,0.6,2,3,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0821,Descriptive,6,1,3,3,0.833333333333333,0.4,0.4,3,1,2,2,1,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Not stated
+STUDY-1022,Causal,14,2,4,4,0.857142857142857,0.666666666666667,0.666666666666667,1,2,1,0,0,Yes,3-10,>=50%,Non-Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Not stated
+STUDY-0145,Descriptive,6,1,2,1.5,0.833333333333333,0.6,0.7,1,1,1,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Declared none
+STUDY-0385,Causal,16,2,5,5,0.875,0.642857142857143,0.642857142857143,3,1,3,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0397,Descriptive,8,1,4,4,0.875,0.428571428571429,0.428571428571429,3,1,3,3,1,Yes,3-10,>=50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0532,Causal,17,1,6,6,0.941176470588235,0.625,0.625,4,1,4,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0284,Descriptive,7,1,4,4,0.857142857142857,0.333333333333333,0.333333333333333,3,1,2,2,1,Yes,3-10,<50%,Non-Saudi,Saudi,Non-Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Declared none
+STUDY-0970,Descriptive,8,1,4,3.5,0.875,0.428571428571429,0.5,3,1,3,1,0.333333333333333,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0304,Causal,15,1,6,6,0.933333333333333,0.571428571428571,0.571428571428571,4,0,4,3,0.75,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Declared none
+STUDY-0487,Descriptive,9,0,5,4.5,1,0.444444444444444,0.5,4,0,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0362,Causal,16,2,7,5.6666667,0.875,0.5,0.595238092857143,3,2,3,2,0.666666666666667,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0731,Descriptive,7,1,3,3,0.857142857142857,0.5,0.5,2,1,2,1,0.5,No,3-10,<50%,Non-Saudi,Saudi,Non-Saudi,Health-system,Single-sector,Q4,Q3-Q4,Not stated
+STUDY-0322,Causal,16,1,7,6.1666667,0.9375,0.533333333333333,0.588888886666667,4,0,4,2,0.5,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0159,Causal,14,6,3,3,0.571428571428571,0.625,0.625,2,3,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0419,Causal,13,1,6,5.6666667,0.923076923076923,0.5,0.527777775,2,1,2,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Declared none
+STUDY-0333,Descriptive,7,0,3,3,1,0.571428571428571,0.571428571428571,3,0,3,1,0.333333333333333,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0046,Causal,15,5,5,3.8333333,0.666666666666667,0.5,0.61666667,3,2,3,2,0.666666666666667,No,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0355,Causal,14,2,5,5,0.857142857142857,0.583333333333333,0.583333333333333,2,1,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Declared none
+STUDY-0845,Causal,13,3,5,5,0.769230769230769,0.5,0.5,3,2,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0555,Causal,19,1,7,5.6666667,0.947368421052632,0.611111111111111,0.685185183333333,2,1,2,1,0.5,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0945,Causal,15,1,7,6.3333333,0.933333333333333,0.5,0.54761905,4,0,4,1,0.25,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0365,Causal,15,3,7,6.6666667,0.8,0.416666666666667,0.444444441666667,3,1,3,3,1,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0023,Causal,13,3,7,6.5,0.769230769230769,0.3,0.35,3,2,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0817,Causal,17,1,6,5.1666667,0.941176470588235,0.625,0.67708333125,3,0,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0170,Causal,16,3,8,6.6666667,0.8125,0.384615384615385,0.487179484615385,3,2,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0442,Causal,14,2,6,5,0.857142857142857,0.5,0.583333333333333,3,1,3,1,0.333333333333333,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0026,Causal,14,3,5,4.5,0.785714285714286,0.545454545454545,0.590909090909091,3,2,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Funded
+STUDY-0048,Causal,14,1,6,5.6666667,0.928571428571429,0.538461538461538,0.564102561538461,2,1,2,1,0.5,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Not stated
+STUDY-0326,Causal,12,1,6,5.6666667,0.916666666666667,0.454545454545455,0.484848481818182,2,1,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0144,Causal,16,4,9,8.5,0.75,0.25,0.291666666666667,4,2,4,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0045,Descriptive,6,1,3,2.5,0.833333333333333,0.4,0.5,2,1,1,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0234,Descriptive,9,2,4,3.5,0.777777777777778,0.428571428571429,0.5,3,2,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0788,Causal,13,5,5,5,0.615384615384615,0.375,0.375,3,2,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-0521,Causal,14,1,6,5.6666667,0.928571428571429,0.538461538461538,0.564102561538461,3,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0192,Causal,16,1,9,8.1666667,0.9375,0.4,0.455555553333333,4,0,4,2,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Funded
+STUDY-0049,Causal,16,3,9,8,0.8125,0.307692307692308,0.384615384615385,4,1,4,2,0.5,No,3-10,>=50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0012,Descriptive,10,0,7,6.5,1,0.3,0.35,5,0,4,2,0.5,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Funded
+STUDY-0141,Causal,16,2,8,7.1666667,0.875,0.428571428571429,0.488095235714286,4,1,4,2,0.5,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0671,Causal,15,3,4,3.6666667,0.8,0.666666666666667,0.694444441666667,3,1,3,0,0,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0924,Descriptive,9,0,3,2.5,1,0.666666666666667,0.722222222222222,2,0,2,2,1,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0182,Causal,14,5,7,6,0.642857142857143,0.222222222222222,0.333333333333333,3,3,3,0,0,Yes,3-10,>=50%,Non-Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0597,Causal,16,3,8,6.6666667,0.8125,0.384615384615385,0.487179484615385,4,1,4,1,0.25,No,11+,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0149,Causal,13,2,5,5,0.846153846153846,0.545454545454545,0.545454545454545,3,1,3,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Not stated
+STUDY-0256,Causal,14,1,5,4.1666667,0.928571428571429,0.615384615384615,0.679487176923077,3,0,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Not stated
+STUDY-0157,Causal,16,2,7,6.6666667,0.875,0.5,0.523809521428571,4,1,4,1,0.25,Yes,3-10,<50%,Non-Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0972,Causal,15,3,7,6.6666667,0.8,0.416666666666667,0.444444441666667,4,1,4,2,0.5,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0766,Descriptive,7,2,4,4,0.714285714285714,0.2,0.2,3,2,2,2,1,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0257,Causal,14,4,8,6.8333333,0.714285714285714,0.2,0.31666667,3,2,3,2,0.666666666666667,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0819,Causal,14,2,6,5.1666667,0.857142857142857,0.5,0.569444441666667,3,1,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0611,Causal,17,2,9,7.6666667,0.882352941176471,0.4,0.488888886666667,4,1,4,2,0.5,Yes,3-10,>=50%,Non-Saudi,Non-Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Declared none
+STUDY-0942,Causal,16,2,6,5.1666667,0.875,0.571428571428571,0.630952378571429,4,1,4,1,0.25,No,11+,<50%,Non-Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0492,Descriptive,6,1,3,3,0.833333333333333,0.4,0.4,2,1,1,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0739,Causal,15,5,7,6.5,0.666666666666667,0.3,0.35,3,3,3,0,0,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0306,Causal,15,2,8,6.8333333,0.866666666666667,0.384615384615385,0.474358976923077,4,0,4,1,0.25,Yes,3-10,>=50%,Non-Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0112,Causal,14,4,6,5.6666667,0.714285714285714,0.4,0.43333333,3,2,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0613,Causal,15,4,7,6.6666667,0.733333333333333,0.363636363636364,0.393939390909091,3,3,3,0,0,No,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0522,Causal,15,4,6,6,0.733333333333333,0.454545454545455,0.454545454545455,4,2,4,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-0792,Causal,12,1,6,5,0.916666666666667,0.454545454545455,0.545454545454545,1,1,1,1,1,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0248,Causal,16,3,5,4.5,0.8125,0.615384615384615,0.653846153846154,3,2,3,0,0,No,11+,<50%,Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0189,Causal,18,1,7,6.6666667,0.944444444444444,0.588235294117647,0.607843135294118,3,1,3,2,0.666666666666667,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Not stated
+STUDY-0701,Descriptive,7,2,3,2.5,0.714285714285714,0.4,0.5,2,2,2,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-0040,Causal,19,1,6,5.6666667,0.947368421052632,0.666666666666667,0.685185183333333,4,0,4,0,0,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0402,Descriptive,9,0,3,3,1,0.666666666666667,0.666666666666667,3,0,2,1,0.5,No,3-10,<50%,Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-0977,Causal,14,5,6,5.5,0.642857142857143,0.333333333333333,0.388888888888889,3,3,3,0,0,No,3-10,<50%,Non-Saudi,Saudi,Non-Saudi,Health-system,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0429,Causal,19,2,6,4.25,0.894736842105263,0.647058823529412,0.75,3,1,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0589,Causal,16,3,6,5.3333333,0.8125,0.538461538461538,0.589743592307692,4,2,4,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0933,Causal,14,2,7,6.1666667,0.857142857142857,0.416666666666667,0.486111108333333,3,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0330,Causal,18,1,8,7.1666667,0.944444444444444,0.529411764705882,0.578431370588235,4,0,4,1,0.25,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0922,Causal,13,4,4,4,0.692307692307692,0.555555555555556,0.555555555555556,3,2,3,2,0.666666666666667,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0600,Causal,18,1,8,7.5,0.944444444444444,0.529411764705882,0.558823529411765,4,0,4,1,0.25,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0119,Causal,15,3,6,5.1666667,0.8,0.5,0.569444441666667,3,2,3,1,0.333333333333333,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0251,Causal,14,2,8,7,0.857142857142857,0.333333333333333,0.416666666666667,3,1,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0932,Causal,15,2,8,7.5,0.866666666666667,0.384615384615385,0.423076923076923,4,1,4,3,0.75,Yes,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0749,Descriptive,5,1,1,1,0.8,0.75,0.75,1,1,1,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Declared none
+STUDY-0517,Causal,14,2,9,9,0.857142857142857,0.25,0.25,3,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0210,Descriptive,7,2,4,3.5,0.714285714285714,0.2,0.3,3,2,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0923,Causal,15,2,6,5.6666667,0.866666666666667,0.538461538461538,0.564102561538461,3,1,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Funded
+STUDY-0214,Causal,12,0,4,3.1666667,1,0.666666666666667,0.736111108333333,2,0,2,2,1,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Declared none
+STUDY-0565,Causal,15,3,7,7,0.8,0.416666666666667,0.416666666666667,4,1,4,3,0.75,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Funded
+STUDY-0899,Causal,16,2,9,9,0.875,0.357142857142857,0.357142857142857,4,1,4,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0094,Causal,15,2,7,5.6666667,0.866666666666667,0.461538461538462,0.564102561538461,3,1,3,2,0.666666666666667,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0809,Causal,17,4,11,10.6666667,0.764705882352941,0.153846153846154,0.179487176923077,4,2,4,0,0,No,11+,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0793,Causal,20,2,9,8.1666667,0.9,0.5,0.546296294444444,5,1,5,0,0,No,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0387,Descriptive,9,2,5,4.5,0.777777777777778,0.285714285714286,0.357142857142857,4,2,3,0,0,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0700,Causal,15,0,4,4,1,0.733333333333333,0.733333333333333,2,0,2,1,0.5,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0805,Causal,16,1,6,5.1666667,0.9375,0.6,0.655555553333333,3,0,3,2,0.666666666666667,No,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0780,Causal,13,2,4,3.6666667,0.846153846153846,0.636363636363636,0.666666663636364,3,0,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0184,Causal,17,2,7,6,0.882352941176471,0.533333333333333,0.6,3,1,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0205,Causal,17,2,8,7,0.882352941176471,0.466666666666667,0.533333333333333,3,1,3,1,0.333333333333333,No,3-10,<50%,Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0740,Causal,18,1,10,9.1666667,0.944444444444444,0.411764705882353,0.460784311764706,5,0,5,1,0.2,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0930,Causal,16,2,7,7,0.875,0.5,0.5,4,1,4,2,0.5,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-1026,Descriptive,6,2,2,2,0.666666666666667,0.5,0.5,1,2,1,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0649,Causal,13,1,5,4.5,0.923076923076923,0.583333333333333,0.625,2,1,2,0,0,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0133,Causal,14,4,9,8.5,0.714285714285714,0.1,0.15,3,2,3,2,0.666666666666667,Yes,3-10,>=50%,Non-Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0542,Causal,15,3,9,7.3333333,0.8,0.25,0.388888891666667,3,2,3,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0337,Causal,16,4,6,5.1666667,0.75,0.5,0.569444441666667,3,2,3,2,0.666666666666667,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-0702,Descriptive,9,0,5,4.5,1,0.444444444444444,0.5,4,0,3,3,1,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0541,Descriptive,6,2,3,3,0.666666666666667,0.25,0.25,2,2,1,0,0,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0840,Causal,12,1,5,4.5,0.916666666666667,0.545454545454545,0.590909090909091,2,1,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Funded
+STUDY-0447,Causal,16,4,5,5,0.75,0.583333333333333,0.583333333333333,3,2,3,0,0,No,3-10,>=50%,Saudi,Saudi,Non-Saudi,Health-system,Single-sector,None,None,Declared none
+STUDY-0634,Descriptive,7,2,4,3.5,0.714285714285714,0.2,0.3,3,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0037,Causal,16,1,8,7.1666667,0.9375,0.466666666666667,0.52222222,4,0,4,2,0.5,No,3-10,>=50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-1021,Descriptive,9,0,5,5,1,0.444444444444444,0.444444444444444,4,0,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0268,Causal,14,1,4,2.8333333,0.928571428571429,0.692307692307692,0.782051284615385,2,1,2,2,1,No,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0943,Descriptive,7,2,3,3,0.714285714285714,0.4,0.4,2,2,2,2,1,No,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Not stated
+STUDY-0760,Descriptive,8,1,5,4.5,0.875,0.285714285714286,0.357142857142857,4,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Declared none
+STUDY-0549,Causal,18,2,7,6.1666667,0.888888888888889,0.5625,0.61458333125,5,0,5,2,0.4,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0161,Causal,15,2,9,7.6666667,0.866666666666667,0.307692307692308,0.410256407692308,3,1,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Not stated
+STUDY-0064,Causal,14,2,6,6,0.857142857142857,0.5,0.5,3,1,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q4,Q3-Q4,Not stated
+STUDY-0952,Descriptive,9,1,4,3.5,0.888888888888889,0.5,0.5625,3,1,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Not stated
+STUDY-0471,Causal,13,5,5,5,0.615384615384615,0.375,0.375,3,3,3,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0135,Causal,14,4,6,5.5,0.714285714285714,0.4,0.45,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0963,Causal,14,4,4,4,0.714285714285714,0.6,0.6,2,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0494,Causal,16,2,4,3.5,0.875,0.714285714285714,0.75,2,1,2,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0577,Causal,17,0,5,4.5,1,0.705882352941176,0.735294117647059,2,0,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0598,Causal,16,2,10,9.1666667,0.875,0.285714285714286,0.345238092857143,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0093,Causal,13,2,5,4.1666667,0.846153846153846,0.545454545454545,0.621212118181818,2,2,2,2,1,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Multi-sector,Q2,Q1-Q2,Not stated
+STUDY-0006,Causal,15,3,8,7.5,0.8,0.333333333333333,0.375,3,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Declared none
+STUDY-0698,Causal,13,2,7,6.5,0.846153846153846,0.363636363636364,0.409090909090909,3,1,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0603,Causal,16,1,5,4.5,0.9375,0.666666666666667,0.7,3,0,3,1,0.333333333333333,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-1001,Causal,14,3,6,5.1666667,0.785714285714286,0.454545454545455,0.530303027272727,3,2,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Funded
+STUDY-0423,Causal,13,4,7,6.5,0.692307692307692,0.222222222222222,0.277777777777778,3,3,3,0,0,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0086,Descriptive,7,2,3,3,0.714285714285714,0.4,0.4,3,2,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0207,Causal,15,5,7,6.3333333,0.666666666666667,0.3,0.36666667,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0109,Causal,15,3,9,8.5,0.8,0.25,0.291666666666667,4,1,4,2,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-1016,Descriptive,6,1,2,1.5,0.833333333333333,0.6,0.7,1,1,1,1,1,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0473,Descriptive,9,0,4,3.5,1,0.555555555555556,0.611111111111111,3,0,2,1,0.5,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Multi-sector,Q1,Q1-Q2,Not stated
+STUDY-0295,Causal,18,1,9,8.1666667,0.944444444444444,0.470588235294118,0.519607841176471,5,0,5,2,0.4,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0516,Causal,13,0,6,5.6666667,1,0.538461538461538,0.564102561538461,2,0,2,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0803,Descriptive,6,1,2,1.5,0.833333333333333,0.6,0.7,1,1,1,0,0,No,3-10,<50%,Non-Saudi,Saudi,Non-Saudi,Health-system,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0307,Causal,15,0,3,2.5,1,0.8,0.833333333333333,1,0,1,1,1,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0560,Descriptive,6,1,4,3.5,0.833333333333333,0.2,0.3,3,1,2,2,1,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0132,Causal,11,1,4,4,0.909090909090909,0.6,0.6,2,1,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q1,Q1-Q2,Declared none
+STUDY-0852,Causal,14,2,6,5.6666667,0.857142857142857,0.5,0.527777775,3,1,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,None,None,Not stated
+STUDY-0231,Causal,14,2,8,7.5,0.857142857142857,0.333333333333333,0.375,3,1,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0595,Causal,17,2,10,9.1666667,0.882352941176471,0.333333333333333,0.388888886666667,4,1,4,2,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0834,Causal,18,1,6,5.5,0.944444444444444,0.647058823529412,0.676470588235294,4,0,4,1,0.25,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Not stated
+STUDY-0865,Descriptive,6,1,2,2,0.833333333333333,0.6,0.6,1,1,1,0,0,Yes,3-10,>=50%,Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0339,Descriptive,6,1,2,2,0.833333333333333,0.6,0.6,1,1,1,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0773,Descriptive,9,1,5,4.5,0.888888888888889,0.375,0.4375,4,1,3,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0744,Causal,15,5,6,5.1666667,0.666666666666667,0.4,0.48333333,3,3,3,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0475,Causal,12,0,4,3.6666667,1,0.666666666666667,0.694444441666667,2,0,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Declared none
+STUDY-0853,Causal,13,0,4,2.5833333,1,0.692307692307692,0.801282053846154,3,0,3,3,1,Yes,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0403,Causal,14,0,6,5.1666667,1,0.571428571428571,0.630952378571429,3,0,3,2,0.666666666666667,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0628,Causal,15,4,8,7.5,0.733333333333333,0.272727272727273,0.318181818181818,3,2,3,1,0.333333333333333,Yes,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0653,Causal,18,2,8,7.1666667,0.888888888888889,0.5,0.55208333125,5,0,5,3,0.6,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0005,Causal,17,2,11,10.6666667,0.882352941176471,0.266666666666667,0.288888886666667,4,1,4,1,0.25,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0162,Causal,15,1,9,9,0.933333333333333,0.357142857142857,0.357142857142857,4,0,4,2,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Funded
+STUDY-0728,Causal,19,1,11,10.1666667,0.947368421052632,0.388888888888889,0.435185183333333,5,0,5,3,0.6,No,3-10,<50%,Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0590,Causal,17,3,6,5.1666667,0.823529411764706,0.571428571428571,0.630952378571429,4,2,4,0,0,No,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0440,Descriptive,6,2,2,2,0.666666666666667,0.5,0.5,1,2,1,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,None,None,Declared none
+STUDY-0450,Causal,15,2,9,8.5,0.866666666666667,0.307692307692308,0.346153846153846,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0416,Causal,14,3,6,5,0.785714285714286,0.454545454545455,0.545454545454545,3,2,3,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0557,Causal,15,5,7,6.5,0.666666666666667,0.3,0.35,3,2,3,2,0.666666666666667,Yes,1-2,>=50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0352,Causal,17,2,9,7.6666667,0.882352941176471,0.4,0.488888886666667,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,None,None,Declared none
+STUDY-0468,Descriptive,6,3,2,2,0.5,0.333333333333333,0.333333333333333,2,3,1,0,0,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0665,Causal,13,0,6,5.5,1,0.538461538461538,0.576923076923077,3,0,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Declared none
+STUDY-0988,Causal,15,4,7,6.5,0.733333333333333,0.363636363636364,0.409090909090909,3,2,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0252,Causal,15,1,6,5.5,0.933333333333333,0.571428571428571,0.607142857142857,4,0,4,1,0.25,No,1-2,>=50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0986,Causal,14,2,9,8,0.857142857142857,0.25,0.333333333333333,3,1,3,1,0.333333333333333,No,1-2,>=50%,Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-0781,Causal,15,4,5,4,0.733333333333333,0.545454545454545,0.636363636363636,2,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0360,Causal,16,3,9,8,0.8125,0.307692307692308,0.384615384615385,3,1,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-1003,Descriptive,7,2,4,3.5,0.714285714285714,0.2,0.3,3,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Multi-sector,Q3,Q3-Q4,Funded
+STUDY-0062,Causal,15,3,5,5,0.8,0.583333333333333,0.583333333333333,4,1,4,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0630,Causal,12,1,4,3.6666667,0.916666666666667,0.636363636363636,0.666666663636364,2,1,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Not stated
+STUDY-0335,Causal,12,1,5,5,0.916666666666667,0.545454545454545,0.545454545454545,2,1,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0096,Causal,15,4,5,4.1666667,0.733333333333333,0.545454545454545,0.621212118181818,3,2,3,3,1,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0778,Descriptive,6,1,3,2.5,0.833333333333333,0.4,0.5,2,1,1,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0878,Causal,15,2,7,6.1666667,0.866666666666667,0.461538461538462,0.525641023076923,3,1,3,3,1,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0864,Descriptive,8,1,5,4.5,0.875,0.285714285714286,0.357142857142857,4,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Declared none
+STUDY-0902,Descriptive,7,2,3,3,0.714285714285714,0.4,0.4,2,2,1,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0345,Descriptive,7,2,3,3,0.714285714285714,0.4,0.4,3,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Multi-sector,Q3,Q3-Q4,Declared none
+STUDY-0472,Descriptive,8,1,4,4,0.875,0.428571428571429,0.428571428571429,3,1,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0331,Causal,14,4,5,5,0.714285714285714,0.5,0.5,3,2,3,0,0,No,11+,>=50%,Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0476,Causal,18,1,13,12,0.944444444444444,0.235294117647059,0.294117647058823,5,0,5,1,0.2,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-1013,Causal,18,1,12,11,0.944444444444444,0.294117647058823,0.352941176470588,5,0,5,2,0.4,Yes,3-10,>=50%,Non-Saudi,Saudi,Non-Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Declared none
+STUDY-0194,Descriptive,8,2,5,4.5,0.75,0.166666666666667,0.25,4,2,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0736,Causal,16,2,8,7.1666667,0.875,0.428571428571429,0.488095235714286,4,1,4,1,0.25,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0647,Causal,15,3,5,3.8333333,0.8,0.583333333333333,0.680555558333333,3,1,3,3,1,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0978,Causal,13,2,6,5.5,0.846153846153846,0.454545454545455,0.5,3,1,3,1,0.333333333333333,Yes,3-10,<50%,Saudi,Saudi,Non-Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Declared none
+STUDY-0188,Causal,14,2,6,5,0.857142857142857,0.5,0.583333333333333,3,1,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0940,Causal,15,1,7,6.5,0.933333333333333,0.5,0.535714285714286,3,0,3,1,0.333333333333333,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0605,Causal,14,5,5,4.5,0.642857142857143,0.444444444444444,0.5,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0084,Causal,18,1,6,5.6666667,0.944444444444444,0.647058823529412,0.666666664705882,4,1,4,1,0.25,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0415,Causal,15,5,9,7.6666667,0.666666666666667,0.1,0.23333333,3,3,3,0,0,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Declared none
+STUDY-0426,Causal,12,2,5,5,0.833333333333333,0.5,0.5,2,2,2,1,0.5,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Not stated
+STUDY-0824,Descriptive,7,2,3,3,0.714285714285714,0.4,0.4,2,2,2,1,0.5,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0974,Descriptive,6,1,2,2,0.833333333333333,0.6,0.6,2,1,1,0,0,Yes,11+,>=50%,Saudi,Saudi,Non-Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Funded
+STUDY-0679,Causal,14,2,5,5,0.857142857142857,0.583333333333333,0.583333333333333,3,1,3,2,0.666666666666667,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0115,Causal,16,1,8,7,0.9375,0.466666666666667,0.533333333333333,4,0,4,2,0.5,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0764,Causal,17,0,5,4.5,1,0.705882352941176,0.735294117647059,3,0,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0677,Causal,13,3,7,6.5,0.769230769230769,0.3,0.35,3,2,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0320,Causal,15,0,4,3.6666667,1,0.733333333333333,0.755555553333333,2,0,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Not stated
+STUDY-0280,Descriptive,6,0,3,3,1,0.5,0.5,2,0,1,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0434,Causal,16,2,5,5,0.875,0.642857142857143,0.642857142857143,4,1,4,2,0.5,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0237,Causal,16,3,6,5.6666667,0.8125,0.538461538461538,0.564102561538461,4,1,4,1,0.25,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0329,Causal,13,3,4,4,0.769230769230769,0.6,0.6,3,2,3,2,0.666666666666667,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0561,Causal,15,0,4,3.3333333,1,0.733333333333333,0.77777778,3,0,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Declared none
+STUDY-0130,Descriptive,9,1,4,3.5,0.888888888888889,0.5,0.5625,3,1,3,0,0,Yes,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0083,Causal,15,5,5,4.6666667,0.666666666666667,0.5,0.53333333,3,3,3,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0633,Causal,15,2,7,5.3333333,0.866666666666667,0.461538461538462,0.589743592307692,3,1,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0876,Causal,14,2,7,6.5,0.857142857142857,0.416666666666667,0.458333333333333,3,1,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0669,Causal,18,1,7,7,0.944444444444444,0.588235294117647,0.588235294117647,4,0,4,1,0.25,Yes,1-2,>=50%,Non-Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0074,Descriptive,6,0,3,3,1,0.5,0.5,2,0,1,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0055,Descriptive,7,1,3,3,0.857142857142857,0.5,0.5,3,1,2,2,1,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0722,Descriptive,7,2,4,3.5,0.714285714285714,0.2,0.3,3,2,2,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0947,Descriptive,7,2,2,2,0.714285714285714,0.6,0.6,2,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0245,Descriptive,6,1,4,4,0.833333333333333,0.2,0.2,3,1,2,0,0,Yes,11+,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0379,Causal,16,1,5,4.5,0.9375,0.666666666666667,0.7,4,0,4,1,0.25,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Funded
+STUDY-0887,Causal,13,2,7,6.5,0.846153846153846,0.363636363636364,0.409090909090909,3,1,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0695,Causal,15,4,4,3.6666667,0.733333333333333,0.636363636363636,0.666666663636364,3,2,3,1,0.333333333333333,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0762,Causal,13,1,7,6.1666667,0.923076923076923,0.416666666666667,0.486111108333333,2,1,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0823,Causal,15,5,7,5.6666667,0.666666666666667,0.3,0.43333333,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Funded
+STUDY-0536,Causal,16,2,6,5.6666667,0.875,0.571428571428571,0.595238092857143,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Funded
+STUDY-0650,Causal,12,2,4,4,0.833333333333333,0.6,0.6,3,1,3,2,0.666666666666667,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0273,Causal,18,2,9,7.3333333,0.888888888888889,0.4375,0.54166666875,5,0,5,2,0.4,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0961,Causal,14,2,7,6.5,0.857142857142857,0.416666666666667,0.458333333333333,3,1,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0609,Causal,17,1,11,10,0.941176470588235,0.3125,0.375,5,0,5,1,0.2,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Declared none
+STUDY-0976,Causal,14,2,8,7.5,0.857142857142857,0.333333333333333,0.375,4,1,4,1,0.25,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Declared none
+STUDY-0282,Causal,15,2,5,4.6666667,0.866666666666667,0.615384615384615,0.641025638461538,4,1,4,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0867,Descriptive,7,1,3,3,0.857142857142857,0.5,0.5,3,1,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0794,Descriptive,7,2,2,2,0.714285714285714,0.6,0.6,2,2,2,0,0,No,3-10,<50%,Non-Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0829,Causal,15,1,4,3.6666667,0.933333333333333,0.714285714285714,0.738095235714286,3,1,3,0,0,No,3-10,<50%,Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0875,Descriptive,9,0,5,4.5,1,0.444444444444444,0.5,4,0,3,3,1,No,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Funded
+STUDY-0443,Causal,15,3,6,6,0.8,0.5,0.5,3,1,3,0,0,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0269,Causal,12,2,3,2.3333333,0.833333333333333,0.7,0.76666667,2,2,2,0,0,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0241,Causal,13,5,4,4,0.615384615384615,0.5,0.5,3,2,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Declared none
+STUDY-0336,Causal,15,1,4,3.5,0.933333333333333,0.714285714285714,0.75,2,1,2,0,0,No,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Not stated
+STUDY-0812,Causal,15,2,6,5.5,0.866666666666667,0.538461538461538,0.576923076923077,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0567,Causal,13,4,4,4,0.692307692307692,0.555555555555556,0.555555555555556,2,1,2,0,0,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0232,Descriptive,5,0,2,2,1,0.6,0.6,2,0,1,1,1,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0648,Descriptive,7,2,4,4,0.714285714285714,0.2,0.2,3,2,2,2,1,Yes,11+,>=50%,Saudi,Saudi,Saudi,Academic-only,Multi-sector,None,None,Funded
+STUDY-0656,Causal,16,1,9,8.1666667,0.9375,0.4,0.455555553333333,4,0,4,1,0.25,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0185,Descriptive,7,2,4,4,0.714285714285714,0.2,0.2,3,2,2,2,1,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0991,Causal,16,2,9,8.5,0.875,0.357142857142857,0.392857142857143,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0047,Descriptive,6,2,3,3,0.666666666666667,0.25,0.25,3,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q4,Q3-Q4,Declared none
+STUDY-0186,Descriptive,9,0,4,3.5,1,0.555555555555556,0.611111111111111,3,0,2,2,1,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Declared none
+STUDY-0713,Causal,17,2,5,4.1666667,0.882352941176471,0.666666666666667,0.72222222,3,1,3,1,0.333333333333333,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0710,Causal,14,2,5,4.5,0.857142857142857,0.583333333333333,0.625,2,1,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0520,Descriptive,7,2,2,2,0.714285714285714,0.6,0.6,2,2,1,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
+STUDY-0156,Descriptive,7,2,3,2.5,0.714285714285714,0.4,0.5,2,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0944,Descriptive,7,2,4,3.5,0.714285714285714,0.2,0.3,3,2,2,0,0,No,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0305,Causal,19,2,11,9.8333333,0.894736842105263,0.352941176470588,0.421568629411765,5,1,5,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0676,Causal,14,4,9,8.5,0.714285714285714,0.1,0.15,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Not stated
+STUDY-0927,Causal,16,1,9,8,0.9375,0.4,0.466666666666667,3,0,3,2,0.666666666666667,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0906,Causal,13,2,5,4.6666667,0.846153846153846,0.545454545454545,0.575757572727273,2,2,2,1,0.5,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,None,None,Declared none
+STUDY-0501,Causal,17,1,10,8.3333333,0.941176470588235,0.375,0.47916666875,4,0,4,1,0.25,Yes,11+,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0868,Causal,15,0,6,5.5,1,0.6,0.633333333333333,2,0,2,1,0.5,No,3-10,<50%,Non-Saudi,Saudi,Non-Saudi,Health-system,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0183,Causal,17,1,9,8,0.941176470588235,0.4375,0.5,3,0,3,2,0.666666666666667,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0053,Descriptive,7,3,2,2,0.571428571428571,0.5,0.5,2,3,2,0,0,No,3-10,<50%,Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0981,Causal,15,2,6,5.1666667,0.866666666666667,0.538461538461538,0.6025641,4,1,4,4,1,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0831,Causal,12,1,6,6,0.916666666666667,0.454545454545455,0.454545454545455,2,1,2,0,0,Yes,11+,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Declared none
+STUDY-0519,Causal,17,1,7,6.6666667,0.941176470588235,0.5625,0.58333333125,4,0,4,1,0.25,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0017,Causal,16,3,8,6.6666667,0.8125,0.384615384615385,0.487179484615385,4,1,4,1,0.25,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0621,Causal,14,4,5,5,0.714285714285714,0.5,0.5,2,2,2,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0905,Descriptive,10,0,6,5.5,1,0.4,0.45,5,0,4,1,0.25,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0143,Descriptive,6,0,2,2,1,0.666666666666667,0.666666666666667,1,0,1,1,1,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Not stated
+STUDY-0644,Causal,17,3,6,5.5,0.823529411764706,0.571428571428571,0.607142857142857,3,1,3,1,0.333333333333333,Yes,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,None,None,Funded
+STUDY-0441,Descriptive,7,2,4,3.5,0.714285714285714,0.2,0.3,3,2,2,2,1,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0030,Causal,13,3,5,4.1666667,0.769230769230769,0.5,0.58333333,2,2,2,0,0,No,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q2,Q1-Q2,Funded
+STUDY-0807,Causal,16,5,6,6,0.6875,0.454545454545455,0.454545454545455,4,2,4,0,0,No,11+,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0371,Causal,14,3,7,7,0.785714285714286,0.363636363636364,0.363636363636364,3,2,3,1,0.333333333333333,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,None,None,Declared none
+STUDY-0911,Causal,16,2,5,5,0.875,0.642857142857143,0.642857142857143,4,1,4,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Declared none
+STUDY-0430,Causal,15,2,10,9.5,0.866666666666667,0.230769230769231,0.269230769230769,4,1,4,2,0.5,No,3-10,<50%,Non-Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0968,Causal,14,1,5,4.6666667,0.928571428571429,0.615384615384615,0.641025638461538,3,0,3,2,0.666666666666667,No,3-10,<50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0919,Causal,15,5,7,6.6666667,0.666666666666667,0.3,0.33333333,3,3,3,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0460,Causal,14,4,4,4,0.714285714285714,0.6,0.6,3,3,3,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q1,Q1-Q2,Funded
+STUDY-0617,Descriptive,5,2,2,2,0.6,0.333333333333333,0.333333333333333,2,2,1,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0674,Causal,12,2,5,4.6666667,0.833333333333333,0.5,0.53333333,2,2,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Funded
+STUDY-0299,Causal,16,2,5,5,0.875,0.642857142857143,0.642857142857143,4,1,4,2,0.5,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Health-system,Single-sector,Q3,Q3-Q4,Funded
+STUDY-0580,Descriptive,9,1,4,3.5,0.888888888888889,0.5,0.5625,3,1,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0425,Causal,14,2,8,7.5,0.857142857142857,0.333333333333333,0.375,3,1,3,1,0.333333333333333,Yes,1-2,>=50%,Non-Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q1,Q1-Q2,Funded
+STUDY-0783,Causal,16,1,4,3.6666667,0.9375,0.733333333333333,0.755555553333333,3,1,3,0,0,Yes,11+,>=50%,Non-Saudi,Saudi,Non-Saudi,Health-system,Multi-sector,None,None,Funded
+STUDY-0466,Causal,15,2,7,6.1666667,0.866666666666667,0.461538461538462,0.525641023076923,3,1,3,1,0.333333333333333,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,Q3,Q3-Q4,Funded
+STUDY-0380,Causal,14,0,6,5.1666667,1,0.571428571428571,0.630952378571429,2,0,2,1,0.5,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Single-sector,Q1,Q1-Q2,Not stated
+STUDY-0196,Causal,15,2,6,5.1666667,0.866666666666667,0.538461538461538,0.6025641,3,1,3,1,0.333333333333333,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q2,Q1-Q2,Funded
+STUDY-0437,Causal,15,4,4,3.1666667,0.733333333333333,0.636363636363636,0.712121209090909,2,3,2,0,0,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0566,Causal,16,2,8,7.6666667,0.875,0.428571428571429,0.45238095,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Saudi,Health-system,Multi-sector,None,None,Not stated
+STUDY-0928,Descriptive,9,1,4,3.5,0.888888888888889,0.5,0.5625,3,1,2,0,0,No,3-10,<50%,Non-Saudi,Non-Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Declared none
+STUDY-0202,Causal,18,2,6,5.6666667,0.888888888888889,0.625,0.64583333125,4,0,4,1,0.25,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Declared none
+STUDY-0019,Causal,17,2,8,7.5,0.882352941176471,0.466666666666667,0.5,4,1,4,0,0,Yes,3-10,>=50%,Saudi,Saudi,Non-Saudi,Academic-only,Single-sector,Q4,Q3-Q4,Funded
+STUDY-0100,Causal,18,1,10,9.1666667,0.944444444444444,0.411764705882353,0.460784311764706,5,0,5,2,0.4,Yes,1-2,>=50%,Saudi,Saudi,Saudi,Academic-only,Single-sector,None,None,Not stated
